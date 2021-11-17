@@ -1,4 +1,4 @@
-# De la ligne à la note : croisements entre sténographie, informatique et notation musicale au <span style="font-variant:small-caps;">xxi</span><sup>e</sup> siècle
+# De la ligne à la note : croisements entre sténographie, informatique et notation musicale au XXI<sup>e</sup> siècle
 
 ![«&nbsp;De la ligne à la note&nbsp;» en sténographie Duployé intégrale](https://raw.githubusercontent.com/yanntrividic/de-la-ligne-a-la-note/main/titre_tranche.png)
 
@@ -12,7 +12,7 @@
 
 ### Résumé
 
-Au même titre que la sténographie est succinctement décrite comme l'«&nbsp;art d'écrire aussi vite que la parole&nbsp;», la sténographie musicale est l'«&nbsp;art d'écrire au rythme de la musique&nbsp;». Cette technologie était omniprésente au <span style="font-variant:small-caps;">xix</span><sup>e</sup> siècle en Europe mais a presque disparu aujourd'hui suite aux avènements de la machine à et de l'ordinateur. La littérature scientifique contemporaine sur le sujet se fait rare ; il n'existe aucun synoptique dédié à la notion de sténographie musicale. Dans cette étude, nous considérons la sténographie à travers le prisme de la musique contemporaine, soit à la lueur d'un état de l'art des technologies de notation musicale du <span style="font-variant:small-caps;">xxi</span><sup>e</sup> siècle. Pour ce faire, nous nous basons en premier lieu sur l'histoire de la sténographie et de la sténographie musicale à travers des sources primaires et secondaires pour en comprendre les enjeux politiques et historiques. Puis, nous reprenons l'histoire de la notation musicale du <span style="font-variant:small-caps;">xx</span><sup>e</sup> siècle, avec une approche aussi bien technologique que graphique. Ces diverses contextualisations nous permettent ensuite de considérer la sténographie comme une technologie de notation musicale à plusieurs avantages et facettes. Nous proposons donc la sténographie comme une alternative au système solfégique, mais aussi avec des qualités plus larges pouvant s'exporter dans des domaines comme la pédagogie.
+Au même titre que la sténographie est succinctement décrite comme l'«&nbsp;art d'écrire aussi vite que la parole&nbsp;», la sténographie musicale est l'«&nbsp;art d'écrire au rythme de la musique&nbsp;». Cette technologie était omniprésente au XXI<sup>e</sup> siècle en Europe mais a presque disparu aujourd'hui suite aux avènements de la machine à et de l'ordinateur. La littérature scientifique contemporaine sur le sujet se fait rare ; il n'existe aucun synoptique dédié à la notion de sténographie musicale. Dans cette étude, nous considérons la sténographie à travers le prisme de la musique contemporaine, soit à la lueur d'un état de l'art des technologies de notation musicale du XXI<sup>e</sup> siècle. Pour ce faire, nous nous basons en premier lieu sur l'histoire de la sténographie et de la sténographie musicale à travers des sources primaires et secondaires pour en comprendre les enjeux politiques et historiques. Puis, nous reprenons l'histoire de la notation musicale du XXI<sup>e</sup> siècle, avec une approche aussi bien technologique que graphique. Ces diverses contextualisations nous permettent ensuite de considérer la sténographie comme une technologie de notation musicale à plusieurs avantages et facettes. Nous proposons donc la sténographie comme une alternative au système solfégique, mais aussi avec des qualités plus larges pouvant s'exporter dans des domaines comme la pédagogie.
 
 ### Colophon
 
@@ -22,7 +22,7 @@ Pour le style bibliographique, nous nous sommes basés sur le travail *[École P
 
 ### Licence
 
-Yann Trividic, *De la ligne à la note : croisements entre sténographie, informatique & notation musicale au <span style="font-variant:small-caps;">xxi</span><sup>e</sup> siècle*, novembre 2021, Andrésy.
+Yann Trividic, *De la ligne à la note : croisements entre sténographie, informatique & notation musicale au XXI<sup>e</sup> siècle*, novembre 2021, Andrésy.
 
 Copyleft : cette œuvre est libre, vous pouvez la copier, la diffuser et la modifier selon les termes de la [Licence Art Libre](https://artlibre.org).
 
@@ -40,14 +40,14 @@ For the bibliographic style, we based our work on the style *[École Pratique de
 
 ### License
 
-Yann Trividic, *De la ligne à la note : croisements entre sténographie, informatique & notation musicale au <span style="font-variant:small-caps;">xxi</span><sup>e</sup> siècle*, november 2021, Andrésy.
+Yann Trividic, *De la ligne à la note : croisements entre sténographie, informatique & notation musicale au XXI<sup>e</sup> siècle*, november 2021, Andrésy.
 
 Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the [Free Art License]( https://artlibre.org/licence/lal/en/).
 
 ## Citation
 
 **APA**
-> Trividic, Y. (2021). *De la ligne à la note: Croisements entre sténographie, informatique et notation musicale au XXIe siècle* [Mémoire de diplôme, École nationale des beaux-arts de Paris]. Bibliothèque d’art contemporain de l’ENSBA. https://github.com/yanntrividic/de-la-ligne-a-la-note.
+> Trividic, Y. (2021). *De la ligne à la note: Croisements entre sténographie, informatique et notation musicale au XXI<sup>e</sup> siècle* [Mémoire de diplôme, École nationale des beaux-arts de Paris]. Bibliothèque d’art contemporain de l’ENSBA. https://github.com/yanntrividic/de-la-ligne-a-la-note.
 
 
 **BibTex**
@@ -56,7 +56,7 @@ Copyleft: This is a free work, you can copy, distribute, and modify it under the
     	address = {Andrésy},
     	type = {mémoire de diplôme},
     	title = {De la ligne à la note},
-    	subtitle = {croisements entre sténographie, informatique et notation musicale au {XXIe} siècle},
+    	subtitle = {croisements entre sténographie, informatique et notation musicale au XXIe siècle},
     	copyright = {LAL 1.3},
     	shorttitle = {De la ligne à la note},
     	url = {https://github.com/yanntrividic/de-la-ligne-a-la-note},
