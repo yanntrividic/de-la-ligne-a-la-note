@@ -1,6 +1,6 @@
 # De la ligne à la note : croisements entre sténographie, informatique et notation musicale au <span style="font-variant:small-caps;">xxi</span><sup>e</sup> siècle
 
-![«&nbsp;De la ligne à la note en sténographie Duployé intégrale&nbsp;»]()
+![«&nbsp;De la ligne à la note&nbsp;» en sténographie Duployé intégrale](https://raw.githubusercontent.com/yanntrividic/de-la-ligne-a-la-note/main/titre_tranche.png)
 
 **[Français]** Ce dépôt vise à archiver et rendre disponible un mémoire de diplôme présenté à l'École nationale des beaux-arts de Paris sous la direction de Pascal Rousseau. Cette étude porte sur la sténographie, et plus particulièrement la sténographie musicale. Une série de fichiers PDF et de documents inDesign est rendue disponible pour permettre à quiconque de s'approprier et diffuser ces travaux librement.
 
@@ -51,6 +51,7 @@ Copyleft: This is a free work, you can copy, distribute, and modify it under the
 
 
 **BibTex**
+
     @mastersthesis{trividic_ligne_2021,
     	address = {Andrésy},
     	type = {mémoire de diplôme},
@@ -68,6 +69,7 @@ Copyleft: This is a free work, you can copy, distribute, and modify it under the
 
 
 **JSON**
+
     [
     	{
     		"id": "http://zotero.org/groups/4417024/items/QA5RDBSS",
