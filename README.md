@@ -43,3 +43,58 @@ For the bibliographic style, we based our work on the style *[École Pratique de
 Yann Trividic, *De la ligne à la note : croisements entre sténographie, informatique & notation musicale au <span style="font-variant:small-caps;">xxi</span><sup>e</sup> siècle*, november 2021, Andrésy.
 
 Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the [Free Art License]( https://artlibre.org/licence/lal/en/).
+
+## Citation
+
+**APA**
+> Trividic, Y. (2021). *De la ligne à la note: Croisements entre sténographie, informatique et notation musicale au XXIe siècle* [Mémoire de diplôme, École nationale des beaux-arts de Paris]. Bibliothèque d’art contemporain de l’ENSBA. https://github.com/yanntrividic/de-la-ligne-a-la-note.
+
+
+**BibTex**
+    @mastersthesis{trividic_ligne_2021,
+    	address = {Andrésy},
+    	type = {mémoire de diplôme},
+    	title = {De la ligne à la note},
+    	subtitle = {croisements entre sténographie, informatique et notation musicale au {XXIe} siècle},
+    	copyright = {LAL 1.3},
+    	shorttitle = {De la ligne à la note},
+    	url = {https://github.com/yanntrividic/de-la-ligne-a-la-note},
+    	language = {fr},
+    	school = {École nationale des beaux-arts de Paris},
+    	author = {Trividic, Yann},
+    	month = nov,
+    	year = {2021},
+    }
+
+
+**JSON**
+    [
+    	{
+    		"id": "http://zotero.org/groups/4417024/items/QA5RDBSS",
+    		"type": "mastersthesis",
+    		"archive": "Bibliothèque d’art contemporain de l'ENSBA",
+    		"event-place": "Andrésy",
+    		"genre": "mémoire de diplôme",
+    		"language": "fr",
+    		"number-of-pages": "172",
+    		"publisher": "École nationale des beaux-arts de Paris",
+    		"publisher-place": "Andrésy",
+    		"title": "De la ligne à la note : croisements entre sténographie, informatique et notation musicale au XXIe siècle",
+    		"title-short": "De la ligne à la note",
+    		"URL": "https://github.com/yanntrividic/de-la-ligne-a-la-note",
+    		"author": [
+    			{
+    				"family": "Trividic",
+    				"given": "Yann"
+    			}
+    		],
+    		"issued": {
+    			"date-parts": [
+    				[
+    					"2021",
+    					11
+    				]
+    			]
+    		}
+    	}
+    ]

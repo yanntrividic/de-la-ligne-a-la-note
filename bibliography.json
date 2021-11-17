@@ -1,0 +1,3376 @@
+[
+  {
+    "id": 2339,
+    "type": "thesis",
+    "event-place": "Paris",
+    "genre": "thèse de doctorat",
+    "publisher": "Université Paris-Sorbonne",
+    "publisher-place": "Paris",
+    "source": "HAL Archives Ouvertes",
+    "title": "La musique électroacoustique : analyse morphologique et représentation analytique",
+    "title-short": "La musique électroacoustique",
+    "author": [
+      {
+        "family": "Couprie",
+        "given": "Pierre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2743,
+    "type": "book",
+    "abstract": "Le point de vue de l'éditeur\" Pouah ! Sortons vite, car je ne puis guère réprimer trop longtemps mon désir fou de créer enfin une véritable réalité musicale en distribuant à droite et à gauche de belles gifles sonores, enjambant et culbutant violons et pianos, contrebasses et orgues gémissantes ! Sortons ! \" LUIGI RUSSOLO",
+    "event-place": "Paris",
+    "ISBN": "978-2-84485-114-7",
+    "language": "French",
+    "note": "OCLC: 717304185",
+    "publisher": "Allia",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "L'Art des bruits : manifeste futuriste 1913",
+    "title-short": "L'Art des bruits",
+    "author": [
+      {
+        "family": "Russolo",
+        "given": "Luigi"
+      }
+    ]
+  },
+  {
+    "id": 2589,
+    "type": "book",
+    "collection-number": "20",
+    "collection-title": "Dallas medieval texts and translations",
+    "event-place": "Leuven",
+    "ISBN": "978-90-429-3068-1",
+    "language": "eng lat",
+    "note": "OCLC: ocn879659765",
+    "number-of-pages": "190",
+    "publisher": "Peeters",
+    "publisher-place": "Leuven",
+    "source": "Library of Congress ISBN",
+    "title": "The Notory Art of Shorthand (Ars notoria notarie): A Curious Chapter in the History of Writing in the West",
+    "title-short": "The Notory Art of Shorthand (Ars notoria notarie)",
+    "author": [
+      {
+        "family": "Haines",
+        "given": "John"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1955,
+    "type": "book",
+    "event-place": "Paris, France",
+    "ISBN": "978-2-7071-5367-8",
+    "language": "français",
+    "note": "ISSN: 0993-7226",
+    "number-of-pages": "319",
+    "publisher": "La Découverte",
+    "publisher-place": "Paris, France",
+    "source": "Library Catalog - www.sudoc.abes.fr",
+    "title": "Écrire, calculer, classer : comment une révolution de papier a transformé les sociétés contemporaines, 1800-1940",
+    "title-short": "Écrire, calculer, classer",
+    "author": [
+      {
+        "family": "Gardey",
+        "given": "Delphine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2726,
+    "type": "chapter",
+    "collection-title": "Collection Musique ouverte",
+    "container-title": "Histoire de la notation de l'époque baroque à nos jours",
+    "event-place": "Paris",
+    "ISBN": "978-2-86931-112-1",
+    "page": "107-186",
+    "publisher": "Minerve",
+    "publisher-place": "Paris",
+    "source": "Library of Congress ISBN",
+    "title": "La remise en cause de la notation, xixe siècle",
+    "author": [
+      {
+        "family": "Goubault",
+        "given": "Christian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2756,
+    "type": "article-journal",
+    "container-title": "International Journal of Innovative Science and Research Technology",
+    "ISSN": "2456-2165",
+    "issue": "6",
+    "journalAbbreviation": "IJISRT",
+    "language": "English",
+    "page": "35-38",
+    "title": "Analysis of Stenography",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Kalra",
+        "given": "Udit"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2579,
+    "type": "book",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR\nill. in-8.",
+    "number-of-pages": "880",
+    "number-of-volumes": "1",
+    "publisher": "Institut sténographique de France",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Histoire générale de la sténographie & de l'écriture à travers les âges",
+    "title-short": "Histoire générale de la sténographie",
+    "author": [
+      {
+        "family": "Navarre",
+        "given": "Albert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1909
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1603,
+    "type": "book",
+    "abstract": "Traduction d'Helène Hiessler et préface de John Hartley.",
+    "collection-number": "2",
+    "collection-title": "Graphê",
+    "event-place": "Paris",
+    "ISBN": "978-2-251-15002-4",
+    "language": "fre",
+    "number-of-pages": "1",
+    "publisher": "Les Belles Lettres",
+    "publisher-place": "Paris",
+    "source": "K10plus ISBN",
+    "title": "Oralité et écriture : la technologie de la parole",
+    "title-short": "Oralité et écriture",
+    "author": [
+      {
+        "family": "Ong",
+        "given": "Walter J."
+      },
+      {
+        "family": "Hartley",
+        "given": "John"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Hiessler",
+        "given": "Hélène"
+      }
+    ]
+  },
+  {
+    "id": 2898,
+    "type": "book",
+    "call-number": "302.230 904",
+    "collection-title": "Médias / théories",
+    "event-place": "Dijon",
+    "ISBN": "978-2-84066-679-0",
+    "language": "fre",
+    "publisher": "Les Presses du réel",
+    "publisher-place": "Dijon",
+    "source": "BnF ISBN",
+    "title": "Gramophone, Film, Typewriter",
+    "author": [
+      {
+        "family": "Kittler",
+        "given": "Friedrich A."
+      }
+    ],
+    "translator": [
+      {
+        "family": "Vargoz",
+        "given": "Frédérique"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2613,
+    "type": "book",
+    "abstract": "Préfaces de Jean-Henri Estoup et d'Arthur Hautefeuille",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR\ncart. in-8° (220 x 140), (210 x 135). Collection Jean-Baptiste Estoup. Système de sténographie Duployé (métagraphie commerciale).",
+    "number-of-volumes": "2",
+    "publisher": "Estoup",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Cours de sténographie : métagraphie directe",
+    "title-short": "Cours de sténographie",
+    "author": [
+      {
+        "family": "Estoup",
+        "given": "Jean-Baptiste"
+      },
+      {
+        "family": "Estoup",
+        "given": "Jean-Henri"
+      },
+      {
+        "family": "Hautefeuille",
+        "given": "Arthur"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2689,
+    "type": "chapter",
+    "container-title": "New Keywords: A Revised Vocabulary of Culture and Society",
+    "event-place": "Oxford",
+    "publisher": "Blackwell Pub.",
+    "publisher-place": "Oxford",
+    "title": "Art",
+    "title-short": "New Keywords",
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "W.J.T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2163,
+    "type": "book",
+    "event-place": "New York",
+    "ISBN": "978-0-500-01665-7",
+    "number-of-pages": "224",
+    "publisher": "Thames and Hudson",
+    "publisher-place": "New York",
+    "source": "Library of Congress ISBN",
+    "title": "The Story of Writing",
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "Andrew"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1569,
+    "type": "book",
+    "abstract": "La sténographie ou L'art d'écrire aussi vite que l'on parle ; suivie de La chirologie ou L'art de converser avec les mains (3e édition) / par M. C. Petitpoisson,... -- 1840 -- livre",
+    "language": "EN",
+    "title": "La Sténographie ou L'Art d'écrire aussi vite que l'on parle ; suivie de La Chirologie ou L'Art de converser avec les mains",
+    "title-short": "La Sténographie",
+    "author": [
+      {
+        "family": "Petitpoisson",
+        "given": "Charles"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1840
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2754,
+    "type": "article-journal",
+    "abstract": "Music shorthand systems devised by Michel Woldemar, Hippolyte Prévost, and August Baumgartner adapted the quill strokes of speech stenography to the seemingly analogous domain of music. Eschewing conventional staff notation in favor of cursive lines that indicated pitch, register, interval, and duration, music stenographers endeavored to record in real time instrumental improvisations and fleeting inspirations that would otherwise have been lost forever due to a lack of recording technology. To advocates of such methods, more efficient technologies of musical writing were indispensable for capturing fugitive musical thoughts and acts: music stenography aided Hector Berlioz, for example, in the composition of his Requiem. For others, including Rossini, Fétis, and contributors to the Allgemeine musikalische Zeitung, the claims and merits of stenography were a source of controversy as well as fascination.Grounded in a corpus of seventy music stenographies that have been largely ignored by musicologists and historians of technology alike, this article asks how musical intuitions became musical texts, thereby entering print-based networks of circulation. Although the importance of “genius” and “work” as historical concepts regulating the production, ontology, and reception of nineteenth-century music has long been acknowledged, the material basis of these concepts has been overlooked until recently. The efforts of musical stenographers demonstrate that the inscription and circulation of material texts provided the means by which musical inspiration could be registered and stored, constituting a material substrate on which such idealist concepts depended. Whereas historians of sound recording have focused on seismic historical and cultural shifts wrought by the introduction of the phonograph in 1877, the preoccupation with capturing music in the decades preceding and following this date suggests an alternate conception of text-based sound recording.",
+    "container-title": "19th-Century Music",
+    "DOI": "10.1525/ncm.2017.41.2.121",
+    "ISSN": "0148-2076",
+    "issue": "2",
+    "journalAbbreviation": "19th-Century Music",
+    "language": "en",
+    "note": "publisher: University of California Press",
+    "page": "121-150",
+    "source": "online.ucpress.edu",
+    "title": "Writing at the Speed of Sound: Music Stenography and Recording beyond the Phonograph",
+    "title-short": "Writing at the Speed of Sound",
+    "volume": "41",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "J. Mackenzie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2692,
+    "type": "book",
+    "event-place": "Leipzig",
+    "language": "ger",
+    "note": "Country: AT\nill. in-8 (18 cm).",
+    "number-of-pages": "109",
+    "publisher-place": "Leipzig",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Homographie",
+    "author": [
+      {
+        "family": "Scott",
+        "given": "Sophie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1831
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2753,
+    "type": "book",
+    "abstract": "Tableau mélo-tachygraphique -- 1800 -- livre",
+    "language": "EN",
+    "source": "gallica.bnf.fr",
+    "title": "Tableau mélo-tachygraphique",
+    "author": [
+      {
+        "family": "Woldemar",
+        "given": "Michel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1800
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2842,
+    "type": "paper-conference",
+    "abstract": "En réaction au livre de son époque, de plus en plus standardisé, reproduit à des milliers d’exemplaires identiques par des presses toujours plus perfectionnées, mais dont la qualité, pour faire baisser son coût, ne cesse de décroître, Jarry cherche à concevoir une forme de livre artistique, échappant à la reproductibilité absolue de la marchandise. La limitation des tirages, la création de gravures originales, l’utilisation de techniques archaïsantes et artisanales et le développement d’une esthétique de la synthèse sont destinés à rendre à ces objets une aura d’unicité et à promouvoir d’autres modèles de réception, fondés sur la suggestion, par refus d’une lecture standardisée. C’est cet intérêt pour l’aspect concret de l’expérience littéraire chez Jarry qui a servi de fil conducteur aux intervenants de ce colloque, organisé par la Société d’Alfred Jarry et le Centre de Recherche Interdisciplinaire sur les Modèles Esthétiques et Littéraires (CRIMEL-EA3311) de l’Université de Reims Champagne-Ardenne, dirigé par Jean-Louis Haquette, et soutenu par la Ville de Reims.",
+    "container-title": "L’Étoile-Absinthe",
+    "event": "Alfred Jarry, du manuscrit à la typographie",
+    "event-place": "Reims",
+    "language": "fr",
+    "note": "issue: 132-133",
+    "publisher": "SAAJ & Du Lérot",
+    "publisher-place": "Reims",
+    "source": "halshs.archives-ouvertes.fr",
+    "title": "Alfred Jarry, du manuscrit à la typographie",
+    "volume": "132-133",
+    "author": [
+      {
+        "family": "Béhar",
+        "given": "Henri"
+      },
+      {
+        "family": "Schuh",
+        "given": "Julien"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2055,
+    "type": "book",
+    "abstract": "Alphabet phonomimique / méthode phonomimique de Aug. Grosselin -- 1864 -- livre",
+    "language": "EN",
+    "source": "gallica.bnf.fr",
+    "title": "Alphabet phonomimique : méthode phonomimique",
+    "URL": "https://gallica.bnf.fr/ark:/12148/bpt6k62258454",
+    "author": [
+      {
+        "family": "Grosselin",
+        "given": "Augustin"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          21
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1864
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2843,
+    "type": "book",
+    "event-place": "Paris",
+    "language": "Français",
+    "publisher": "Hachette",
+    "publisher-place": "Paris",
+    "title": "Méthode pour apprendre sans l'assistance d'un maître, la lecture, la prononciation et l'orthographe, suivie d'alphabets spéciaux pour les sourds-muets, pour les aveugles et pour les sourds-muets aveugles",
+    "title-short": "Méthode pour apprendre sans l'assistance d'un maître, la lecture, la prononciation et l'orthographe",
+    "author": [
+      {
+        "family": "Grosselin",
+        "given": "Augustin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1854
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1990,
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-84485-331-8",
+    "language": "fre",
+    "number-of-pages": "413",
+    "publisher": "Allia",
+    "publisher-place": "Paris",
+    "source": "K10plus ISBN",
+    "title": "Essai sur l'art chinois de l'écriture et ses fondements",
+    "title-short": "Essai sur l'art chinois de l'écriture",
+    "author": [
+      {
+        "family": "Billeter",
+        "given": "Jean François"
+      }
+    ]
+  },
+  {
+    "id": 2751,
+    "type": "chapter",
+    "abstract": "Examines the concept of rhetorical &#39;ductus&#39; as the way(s) in which a work guides you through itself. This ancient idea was greatly extended and developed during the Middle Ages, when works were conceived often as journeys with paths and",
+    "collection-number": "78",
+    "collection-title": "Cambridge Studies in Medieval Literature",
+    "container-title": "Rhetoric Beyond Words",
+    "event-place": "Cambridge",
+    "ISBN": "978-1-107-64777-0",
+    "language": "EN",
+    "page": "190-213",
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "source": "www.academia.edu",
+    "title": "The concept of ductus, or, journeying through a work of art",
+    "author": [
+      {
+        "family": "Carruthers",
+        "given": "Mary"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1602,
+    "type": "book",
+    "collection-title": "Rayon art",
+    "event-place": "Nîmes",
+    "ISBN": "978-2-87711-045-7",
+    "language": "fre",
+    "number-of-pages": "312",
+    "publisher": "Chambon",
+    "publisher-place": "Nîmes",
+    "source": "K10plus ISBN",
+    "title": "Langages de l'art : une approche de la théorie des symboles",
+    "title-short": "Langages de l'art",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Morizot",
+        "given": "Jacques"
+      }
+    ]
+  },
+  {
+    "id": 1893,
+    "type": "webpage",
+    "abstract": "After Palestinian content was restricted or removed from Instagram and Facebook, social media users developed a crafty method of altering Arabic script.",
+    "container-title": "Hyperallergic",
+    "language": "en-US",
+    "title": "People Are Using an Ancient Method of Writing Arabic to Combat AI Censors",
+    "URL": "https://hyperallergic.com/647086/people-are-using-an-ancient-method-of-writing-arabic-to-combat-ai-censors/",
+    "author": [
+      {
+        "family": "Bishara",
+        "given": "Hakim"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2338,
+    "type": "webpage",
+    "abstract": "Double your handwriting speed with this no-nonsense shorthand system.",
+    "container-title": "Orthic Shorthand",
+    "title": "A Manual of Orthographic Shorthand",
+    "URL": "https://orthic.shorthand.fun/manual",
+    "author": [
+      {
+        "family": "Callendar",
+        "given": "Hugh L."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2859,
+    "type": "article-newspaper",
+    "abstract": "Behrin, Nathan",
+    "container-title": "The New York Times",
+    "event-place": "New York",
+    "ISSN": "0362-4331",
+    "language": "en-US",
+    "publisher-place": "New York",
+    "section": "Archives",
+    "source": "NYTimes.com",
+    "title": "Nathan Behrin, Court Reporter",
+    "URL": "https://www.nytimes.com/1971/05/07/archives/nathan-behrin-court-reporter-holder-of-shorthand-speed-record-since.html",
+    "issued": {
+      "date-parts": [
+        [
+          1971,
+          5,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2858,
+    "type": "book",
+    "event-place": "Montréal",
+    "language": "French",
+    "note": "OCLC: 937557523",
+    "publisher-place": "Montréal",
+    "source": "Open WorldCat",
+    "title": "Sténographie Perrault-Duployé : deux mille cinq cents abréviations sténographiques : permettant de suivre le mot à mot quelle que soit la volubilité de l'orateur : à l'usage des élèves, des professeurs et des sténographes officiels et professionnels : ouvrage contenant des abréviations commerciales, judiciaires, parlementaires, théologiques, etc.",
+    "title-short": "Sténographie Perrault-Duployé",
+    "author": [
+      {
+        "family": "Perrault",
+        "given": "Denis R"
+      }
+    ]
+  },
+  {
+    "id": 2688,
+    "type": "article-journal",
+    "abstract": "Traiter des modalit&#233;s d&#8217;entr&#233;e dans l&#8217;apprentissage de la lecture chez des &#233;l&#232;ves non-francophones nouvellement arriv&#233;s en France rel&#232;ve de l&#8217;aporie. Tout a &#233;t&#233; dit sur la lecture, &#233;galement sur l&#8217;acquisition d&#8217;une langue seconde, mais peu de choses pour tenter de corr&#233;ler un terme &#224; l&#8217;autre. Cette recherche couvre pourtant un champ d&#8217;exp&#233;rience bien r&#233;el (les classes d&#8217;initiation) qui reste &#224; l&#8217;heure actuelle en friche en l&#8217;absence d&#8217;un questionnement linguistique appliqu&#233; &#224; un public souvent m&#233;connu et &#224; des pratiques de classe encore in&#233;dites. La probl&#233;matique centrale est en forme de paradoxe&#160;: comment des &#233;l&#232;ves non-francophones inscrits &#224; l&#8217;&#233;cole en France peuvent-ils apprendre &#224; lire sur une langue qu&#8217;ils ne ma&#238;trisent pas encore&#160;? On aura compris qu&#8217;un des objectifs annexes de cette recherche est de recueillir tous les &#233;l&#233;ments n&#233;cessaires pour r&#233;fl&#233;chir aux modes de conceptualisation de l&#8217;&#233;crit chez des enfants en d&#233;licatesse avec la langue de l&#8217;&#233;cole. Les classes d&#8217;initiation regroupant &#224; l&#8217;&#233;cole &#233;l&#233;mentaire des &#233;l&#232;ves non-francophones, souvent non scolaris&#233;s ant&#233;rieurement, sont &#224; cet &#233;gard d&#8217;extraordinaires laboratoires de recherche.",
+    "container-title": "Éla. Études de linguistique appliquée",
+    "ISSN": "0071-190X",
+    "issue": "2",
+    "language": "fr",
+    "note": "Bibliographie_available: 1\nCairndomain: www.cairn.info\nCite Par_available: 0\npublisher: Klincksieck",
+    "page": "187-198",
+    "source": "www.cairn.info",
+    "title": "Tâtonnement phonologique et lecture dialoguée : les conditions didactiques pour apprendre à lire en français langue seconde",
+    "title-short": "Tâtonnement phonologique et lecture dialoguée",
+    "volume": "n° 174",
+    "author": [
+      {
+        "family": "Rafoni",
+        "given": "Jean-Charles"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2121,
+    "type": "book",
+    "event-place": "Bazas",
+    "ISBN": "978-2-86853-658-7",
+    "number-of-pages": "85",
+    "publisher": "Le Temps qu'il fait",
+    "publisher-place": "Bazas",
+    "source": "Library of Congress ISBN",
+    "title": "Steno stone",
+    "author": [
+      {
+        "family": "Danton",
+        "given": "Michel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2687,
+    "type": "book",
+    "collection-number": "205, 213",
+    "collection-title": "Bibliothèque de la Pléiade",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR\njaquette ill. 18 cm.",
+    "number-of-pages": "1365",
+    "number-of-volumes": "2",
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Journal",
+    "author": [
+      {
+        "family": "Claudel",
+        "given": "Paul"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Petit",
+        "given": "Jacques"
+      },
+      {
+        "family": "Varillon",
+        "given": "François"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2582,
+    "type": "book",
+    "event-place": "Figeac",
+    "ISBN": "978-2-9541730-3-0",
+    "language": "fre",
+    "publisher": "Musée Champollion des Écritures du Monde",
+    "publisher-place": "Figeac",
+    "source": "BnF ISBN",
+    "title": "Michel Danton, Steno stone : exposition, Figeac, Musée Champollion des Écritures du Monde, 21 juin-29 septembre 2019",
+    "title-short": "Michel Danton, Steno stone",
+    "author": [
+      {
+        "family": "Ramio",
+        "given": "Céline"
+      },
+      {
+        "family": "Cruveilher",
+        "given": "Laurie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1649,
+    "type": "article-journal",
+    "abstract": "English orthography presents the reader with many different kinds of linguistic information beyond the simple sound of the word. Evidence from a variety of psycholinguistic tasks shows that both adults and children can exploit this information and this could enable them to read more efficiently. It is argued that a fast and effective writing system need not stay close to the phonemic detail of speech, and shorthand systems are given as further examples of this. Some proposals for spelling reform are briefly evaluated in the light of this evidence.",
+    "container-title": "Visible Language",
+    "issue": "2",
+    "language": "English",
+    "page": "126-136",
+    "title": "In Defence of Conservatism in English Orthography",
+    "volume": "XIV",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Phillip T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2908,
+    "type": "book",
+    "abstract": "Sténographie Duployé, ou l'Art de suivre avec l'écriture la parole la plus rapide appris sans maître en quelques heures (4e édition) / par les frères Duployé -- 1867 -- livre",
+    "edition": "4e",
+    "event-place": "Sinceny",
+    "language": "EN",
+    "publisher-place": "Sinceny",
+    "source": "gallica.bnf.fr",
+    "title": "Sténographie Duployé, ou l'Art de suivre avec l'écriture la parole la plus rapide appris sans maître en quelques heures",
+    "title-short": "Sténographie Duployé",
+    "author": [
+      {
+        "family": "Duployé",
+        "given": "Émile"
+      },
+      {
+        "family": "Duployé",
+        "given": "Aldoric"
+      },
+      {
+        "family": "Duployé",
+        "given": "Jules"
+      },
+      {
+        "family": "Duployé",
+        "given": "Gustave"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1867
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1516,
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-07-072470-3",
+    "number-of-pages": "319",
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "source": "K10plus ISBN",
+    "title": "La signature : genèse d'un signe",
+    "title-short": "La signature",
+    "author": [
+      {
+        "family": "Fraenkel",
+        "given": "Béatrice"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2720,
+    "type": "article-journal",
+    "abstract": "les « Notes tironiennes » sont un système d'écriture sténographique en usage dans la Rome antique, dont l'invention remonterait à Tiron, secrétaire de Cicéron — de qui elles tirent leur nom. Ce système aurait survécu tel quel jusqu'à l'époque carolingienne, pour tomber en désuétude dans le courant du XIe siècle.<br />Une version plus développée de ce texte a été publiée, sous le titre « Aperçu sommaire (et perspectives nouvelles) sur les notes tironiennes », dans Écritures abrégées (notes, notules, messages, codes...) : l'abréviation entre pratiques spontanées, codifications, modernité et histoire, N. Andrieux-Rey, S. Branca-Rosoff, C. Puech, dir., Paris – Gap, Ophrys, 2004 (Bibliothèque de ‘Faits de langues'), p. 191-210.",
+    "collection-title": "Actes",
+    "container-title": "Le manuscrit dans tous ses états, cycle thématique 2005- 2006 de l’IRHT",
+    "journalAbbreviation": "IHRT",
+    "language": "fr",
+    "note": "publisher: IRHT",
+    "source": "halshs.archives-ouvertes.fr",
+    "title": "Les notes tironiennes",
+    "URL": "http://aedilis.irht.cnrs.fr/manuscrit/notes-tironiennes.htm",
+    "volume": "12",
+    "author": [
+      {
+        "family": "Muzerelle",
+        "given": "Denis"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Fellous",
+        "given": "S."
+      },
+      {
+        "family": "Heid",
+        "given": "C."
+      },
+      {
+        "family": "Jullien",
+        "given": "M.-H."
+      },
+      {
+        "family": "Buquet",
+        "given": "T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2588,
+    "type": "book",
+    "abstract": "Toutes les informations de la Bibliothèque Nationale de France sur : Histoire de la sténographie dans l'antiquité et au moyen âge, les notes tironiennes - Eugène Guénin (1865-1931)",
+    "language": "fr",
+    "source": "data.bnf.fr",
+    "title": "Histoire de la sténographie dans l'Antiquité et au Moyen-âge, les notes tironiennes",
+    "title-short": "Histoire de la sténographie",
+    "author": [
+      {
+        "family": "Guénin",
+        "given": "Eugène"
+      },
+      {
+        "family": "Guénin",
+        "given": "Louis Prosper"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1908
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2686,
+    "type": "book",
+    "language": "fr",
+    "note": "Google-Books-ID: 6aNAAAAAcAAJ",
+    "number-of-pages": "190",
+    "publisher": "F. Didot frères",
+    "source": "Google Books",
+    "title": "Cours théorique et pratique de sténographie",
+    "title-short": "Cours théorique et pratique de sténographie",
+    "author": [
+      {
+        "family": "Fossé",
+        "given": "A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1829
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2714,
+    "type": "book",
+    "event-place": "Mannhemii",
+    "language": "lat",
+    "number-of-volumes": "5",
+    "publisher": "sumtibus auctoris",
+    "publisher-place": "Mannhemii",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Palaeographia critica",
+    "author": [
+      {
+        "family": "Kopp",
+        "given": "Ulrich Friedrich"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1817
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2584,
+    "type": "book",
+    "abstract": "Alphabetum Tironianum, seu Notas Tironis explicandi methodus ... labore et studio D. P. Carpentier,... -- 1747 -- livre",
+    "language": "EN",
+    "source": "gallica.bnf.fr",
+    "title": "Alphabetum Tironianum, seu Notas Tironis explicandi methodus",
+    "author": [
+      {
+        "family": "Carpentier",
+        "given": "Pierre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1747
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2722,
+    "type": "book",
+    "abstract": "En 1953, Jan Tschichold (typographe, théoricien et pédagogue) publie un texte historique sur le dessin du signe &, structuré par une collection de 288 esperluettes qu'il répertorie et analyse. Cette introduction à l'histoire de l'écriture et de la typographie par le biais d'un signe unique est pour la première fois traduite et publiée en français, dans une version fac-similé fidèle à la mise en forme originale de l'auteur",
+    "event-place": "Paris",
+    "ISBN": "979-10-95902-05-8",
+    "language": "fre",
+    "publisher": "-Zeug",
+    "publisher-place": "Paris",
+    "source": "BnF ISBN",
+    "title": "Métamorphoses de l'esperluette",
+    "author": [
+      {
+        "family": "Tschichold",
+        "given": "Jan"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Gineste",
+        "given": "Julien"
+      }
+    ]
+  },
+  {
+    "id": 2684,
+    "type": "book",
+    "language": "en",
+    "note": "Google-Books-ID: 6nxQAAAAYAAJ",
+    "number-of-pages": "170",
+    "publisher": "author",
+    "source": "Google Books",
+    "title": "An Essay Intended to Establish a Standard for an Universal System of Stenography, or, Short Hand Writing",
+    "title-short": "An Essay Intended to Establish a Standard for an Universal System of Stenography",
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "Samuel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1786
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2734,
+    "type": "book",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR\nExtrait de la \"Revue pédagogique.",
+    "publisher": "C. Delagrave",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Recherches sur l'histoire, la pratique et l'enseignement de la sténographie",
+    "author": [
+      {
+        "family": "Guénin",
+        "given": "Louis Prosper"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1880
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2736,
+    "type": "book",
+    "event-place": "Arcis-sur-Aube",
+    "language": "fre",
+    "note": "Country: FR\nExtrait de la \"Revue de Champagne et de Brie\", 1886.",
+    "publisher": "L. Frémont",
+    "publisher-place": "Arcis-sur-Aube",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Pierre Bertin, sténographe, littérateur et inventeur",
+    "author": [
+      {
+        "family": "Choullier",
+        "given": "Ernest"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1886
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2742,
+    "type": "article-journal",
+    "abstract": "Jean-Baptiste Estoup (1868-1950) fut un sténographe innovateur qui perfectionna la méthode d'apprentissage Duployé en se basant sur des observations quantitatives sur les fréquences de mots et la rapidité gestuelle humaine. Les comptages de mots qu'il organisa sur des corpus de plusieurs dizaines de milliers d'occurrences et qu'il publia vers 1916 inspirèrent les travaux de G.K. Zipf dans les années 1930 : la première formulation de la \"loi de répartition de Zipf\" est une traduction graphique directe de ces comptages.",
+    "language": "fr",
+    "source": "halshs.archives-ouvertes.fr",
+    "title": "Jean-Baptiste Estoup et les prémices de la loi de Zipf : un sténographe à l’esprit scientifique, 1868-1950.",
+    "title-short": "Jean-Baptiste Estoup et les prémices de la loi de Zipf",
+    "author": [
+      {
+        "family": "Lelu",
+        "given": "Alain"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          12,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2110,
+    "type": "book",
+    "abstract": "Sténographie des cours de diverses facultés de Paris. , Cours de droit constitutionnel : année scolaire1835-1836, semestre d'été / M. Rossi -- 1836 -- livre",
+    "language": "EN",
+    "source": "gallica.bnf.fr",
+    "title": "Sténographie des cours de diverses facultés de Paris, cours de droit constitutionnel : année scolaire 1835-1836, semestre d'été",
+    "title-short": "Sténographie des cours de diverses facultés de Paris",
+    "author": [
+      {
+        "family": "Rossi",
+        "given": "Pellegrino"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1836
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2903,
+    "type": "chapter",
+    "abstract": "Un Essai sur la typographie est l'ouvrage le plus important d'Eric Gill. Hospitalisé durant l'automne 1930, il s'attaque à la rédaction de ce qui est d'abord une présentation des méthodes de création et de production de la typographie – à savoir les formes des lettres, et également la composition textuelle –, mais aussi une réflexion sur l'état des relations entre le travail manuel de l'homme, sa dimension créative & son remplacement croissant par la machine, et sur les contradictions qu'elles engendrent. Gill s'entretient régulièrement de ces thèmes avec son beau-fils, René Hague, avec lequel il vient de fonder une imprimerie commerciale & dont l'apport aux aspects techniques de cet essai a pu être significatif. Truculente, parfois sarcastique, mais toujours pragmatique et précise, la vision de Gill sur l'évolution de sa pratique et sur la position à adopter face à « l'industrialisme » résonne encore à notre époque. La première édition d'An Essay on Typography est publiée en juin 1931 par Sheed & Ward dans un format de 12,5 par 19,8 cm. Son tirage est de 500 exemplaires, signés par Gill & Hague qui ont pris soin de le composer avec un nouveau caractère typographique de Gill, le Joanna, et de l'imprimer sur un papier fait spécialement à la main. Une seconde édition d'un format plus petit, révisée et augmentée d'un chapitre, paraît en 1936, et a connu depuis plusieurs réimpressions. Ce sont le texte et la mise en page de cette édition qu'Ypsilon Éditeur a publiés pour la première fois en français en 2011, accompagnés d'un ensemble de notes permettant au lecteur de mieux comprendre son contexte historique & technique. Aujourd'hui, cette nouvelle édition est complétée par une postface de Sébastien Morlighem qui évalue la portée et la pertinence d'Un Essai sur la typographie et de la postérité de son auteur, particulièrement dans la culture francophone de la typographie",
+    "call-number": "686.22",
+    "collection-title": "Bibliothèque typographique",
+    "container-title": "Un essai sur la typographie",
+    "event-place": "Paris",
+    "ISBN": "978-2-35654-086-7",
+    "language": "fre",
+    "page": "142-157",
+    "publisher": "Ypsilon",
+    "publisher-place": "Paris",
+    "source": "BnF ISBN",
+    "title": "Mais pourquoi utiliser les lettres ?",
+    "title-short": "Mais pourquoi utiliser les lettres ?",
+    "author": [
+      {
+        "family": "Gill",
+        "given": "Eric"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Donné",
+        "given": "Boris"
+      },
+      {
+        "family": "Menay",
+        "given": "Patricia"
+      }
+    ]
+  },
+  {
+    "id": 2706,
+    "type": "book",
+    "abstract": "What is the relationship between the ideas of the Enlightenment and the culture and ideology of the French Revolution? This book takes up that classic question by concentrating on changing conceptions of language and, especially, signs during the second half of the eighteenth century.The author traces, first, the emergence of a new interest in the possibility of gestural communication within the philosophy, theater, and pedagogy of the last decades of the Old Regime. She then explores the varied uses and significance of a variety of semiotic experiments, including the development of a sign language for the deaf, within the language politics of the Revolution.A Revolution in Language shows not only that many key revolutionary thinkers were unusually preoccupied by questions of language, but also that prevailing assumptions about words and other signs profoundly shaped revolutionaries' efforts to imagine and to institute an ideal polity between 1789 and the start of the new century. This book reveals the links between Enlightenment epistemology and the development of modern French political culture.",
+    "event-place": "Stanford",
+    "ISBN": "978-0-8047-4931-2",
+    "number-of-pages": "424",
+    "publisher": "Stanford University Press",
+    "publisher-place": "Stanford",
+    "source": "Stanford University Press",
+    "title": "A Revolution in Language: The Problem of Signs in Late Eighteenth-Century France",
+    "title-short": "A Revolution in Language",
+    "author": [
+      {
+        "family": "Rosenfeld",
+        "given": "Sophia"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2857,
+    "type": "article-journal",
+    "abstract": "Le projet de cet article est de rendre compte de l’histoire et de la sociologie d’un groupe de fonctionnaires singuliers – les sténographes parlementaires – dont le métier est intimement lié à l’histoire du parlementarisme dans la plupart des démocraties du monde. Au cours du xixe siècle, les sténographes français proposent leurs services aux assemblées et éprouvent et valident leurs systèmes théoriques et leurs savoir-faire tout en promettant l’édification d’un bien commun plus vaste, la publicité des débats parlementaires, élément de définition et d’approfondissement de la démocratie. Après un régime « libéral » de restitution des débats, proche du modèle libéral anglais, est mis en place en France en 1848, de nouveau sous la IIIe République et de façon continue jusqu’en 2004, un corps de fonctionnaires sténographes chargés de produire le compte rendu intégral (et officiel) des débats parlementaires, témoignant pour la presse et l’histoire de la véracité des dires et des faits. Conduite à partir d’un matériau sociologique et historique original, cette enquête vise à questionner la façon dont les institutions sont façonnées, produites et reproduites par les savoirs et les faire, dont des valeurs s’incarnent, dont les institutions prennent forme. Au-delà de l’institution de la publicité des débats, l’article s’intéresse aux conditions techniques, matérielles et sociales de définition de l’Assemblée nationale comme institution politique.",
+    "container-title": "Sociologie du travail",
+    "DOI": "10.4000/sdt.13695",
+    "ISSN": "0038-0296",
+    "issue": "2",
+    "language": "fr",
+    "note": "number: 2\npublisher: Association pour le développement de la sociologie du travail",
+    "page": "195-211",
+    "source": "journals.openedition.org",
+    "title": "Scriptes de la démocratie : les sténographes et rédacteurs des débats (1848-2005)",
+    "title-short": "Scriptes de la démocratie",
+    "volume": "52",
+    "author": [
+      {
+        "family": "Gardey",
+        "given": "Delphine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2576,
+    "type": "article-journal",
+    "abstract": "Cet article tend à envisager les questions que nous pose la rédaction du compte rendu intégral des débats parlementaires. Cet outil, facile d’accès, est très employé par les chercheurs, que ce soit dans les analyses qualitatives ou quantitatives. Pour autant, est-on sûr que les mots rapportés soient ceux qui ont été effectivement prononcés ? Quels biais s’insinuent dans notre lecture du compte rendu ? Biais dans notre lecture et non dans son écriture. Car le peu de recul que nous développons vis-à-vis du matériau de recherche provient d’une mésinterprétation de ses objectifs de production. Le compte rendu n’est pas un verbatim. Le compte rendu est un acte d’institution produit à dessein d’assurer une transition entre la plurivocité des débats parlementaires et l’univocité de la norme juridique produite. Il se veut ainsi la mise en forme d’un ordre parlementaire fortement idéalisé et ritualisé permettant d’assurer la lisibilité du processus législatif et, partant, la validité et la légitimité du droit.",
+    "container-title": "Droit et société",
+    "ISSN": "0769-3362",
+    "issue": "1",
+    "language": "fr",
+    "note": "Bibliographie_available: 0\nCairndomain: www.cairn.info\nCite Par_available: 1\npublisher: Lextenso",
+    "page": "179-199",
+    "source": "www.cairn.info",
+    "title": "Ce que conte le compte rendu : l’institution d’un ordre parlementaire idéalisé",
+    "title-short": "Ce que conte le compte rendu",
+    "volume": "98",
+    "author": [
+      {
+        "family": "Morel",
+        "given": "Benjamin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2750,
+    "type": "chapter",
+    "container-title": "Making Things Public: Atmospheres of Democracy",
+    "event-place": "Cambridge ; Royaume-Uni ; Allemagne",
+    "publisher-place": "Cambridge ; Royaume-Uni ; Allemagne",
+    "title": "Turning Public Discourse into an Authentic Artifact: Shorthand Transcription in the French National Assembly",
+    "author": [
+      {
+        "family": "Gardey",
+        "given": "Delphine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2749,
+    "type": "article-newspaper",
+    "abstract": "It's a myth that stenographers are no longer required and computers could do the job. The reality is there is a great demand for stenographers.",
+    "container-title": "The Hindu",
+    "event-place": "Chennai",
+    "ISSN": "0971-751X",
+    "language": "en-IN",
+    "publisher-place": "Chennai",
+    "section": "Open Page",
+    "source": "www.thehindu.com",
+    "title": "Why this short shrift to shorthand?",
+    "URL": "https://www.thehindu.com/opinion/open-page/Why-this-short-shrift-to-shorthand/article15538380.ece",
+    "author": [
+      {
+        "family": "Raj",
+        "given": "Anand"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2740,
+    "type": "article-newspaper",
+    "abstract": "The Shorthand Association of Karnataka completes centenary in 2019",
+    "container-title": "The Hindu",
+    "event-place": "Chennai",
+    "ISSN": "0971-751X",
+    "language": "en-IN",
+    "publisher-place": "Chennai",
+    "section": "Bengaluru",
+    "source": "www.thehindu.com",
+    "title": "Shorthand, still a passport to government, court jobs in India",
+    "URL": "https://www.thehindu.com/news/cities/bangalore/shorthand-still-a-passport-to-government-court-jobs-in-india/article23404472.ece",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2748,
+    "type": "article-journal",
+    "abstract": "An adaptation of the French Duployé shorthand usually known as wawa writing was for a time widely used in British Columbia to write Chinook Jargon and several Salishan languages. In this essay, Father Lejeune describes the decision to adapt Duployeé shorthand, its introduction, and the early history of its use. A transcription of the French original is accompanied by an English translation.",
+    "container-title": "Northwest Journal of Linguistics",
+    "ISSN": "1718-8563",
+    "issue": "3",
+    "language": "English",
+    "page": "1-10",
+    "title": "How the Shorthand was Introduced among the Indians",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Poser",
+        "given": "William J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2856,
+    "type": "paper-conference",
+    "abstract": "As technology continues to evolve, some traditional practices tend to fade. Stenography is a practice of writing dictations in terms of speed devised by Isaac Pitman. The said practice had been around the early 19th century to address the slow phased transcription process in court trials. However, such a method can diminish as people tend to rely moreover upon recently developed advanced technologies. This study aims to use Convolutional Neural Networks and image processing techniques to preserve stenography by allowing machines to recognize and use the said writing practice in modern times. This research used 2000 common court stenography words and phrases as the core dataset for training, validation, and testing. Application of canny edge detection provides the detection of edges to provide a better classification of stenographic writings. Results generated show that through Convolutional Neural Networks, stenography writings can be recognized even by the machines. Canny Edge Detection highly supported the improvement of results by allowing the model to focus more on the necessary features for better classification accuracy. The researchers also determined future enhancements and works that can contribute in the given research.",
+    "container-title": "Proceedings of the 2019 ICCIKE",
+    "DOI": "10.1109/ICCIKE47802.2019.9004359",
+    "event": "2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)",
+    "event-place": "Dubai",
+    "page": "305-310",
+    "publisher": "Amity University Dubai",
+    "publisher-place": "Dubai",
+    "source": "ResearchGate",
+    "title": "Classification of Stenography using Convolutional Neural Networks and Canny Edge Detection Algorithm",
+    "URL": "https://www.researchgate.net/publication/339406830_Classification_of_Stenography_using_Convolutional_Neural_Networks_and_Canny_Edge_Detection_Algorithm",
+    "author": [
+      {
+        "family": "Montalbo",
+        "given": "Francis Jesmar"
+      },
+      {
+        "family": "Barfeh",
+        "given": "Davood Pour Yousefian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2136,
+    "type": "book",
+    "abstract": "A Duployan Unicode font",
+    "genre": "Python",
+    "note": "original-date: 2018-05-01T18:43:39Z",
+    "source": "GitHub",
+    "title": "Dépôt Github duployan-font",
+    "URL": "https://github.com/dscorbett/duployan-font",
+    "author": [
+      {
+        "family": "Corbett",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2741,
+    "type": "paper-conference",
+    "abstract": "Sarman (at) rz dot tu-clausthal dot de",
+    "container-title": "TUG 2008 Conference Proceedings",
+    "event": "TUG 2008",
+    "event-place": "Cork, Royaume-Uni",
+    "publisher": "Technische Universität Clausthal",
+    "publisher-place": "Cork, Royaume-Uni",
+    "source": "CiteSeer",
+    "title": "Writing Gregg Shorthand with Metafont and LATEX",
+    "author": [
+      {
+        "family": "Šarman",
+        "given": "Stanislav Jan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2728,
+    "type": "chapter",
+    "container-title": "Feuillets d'histoire musicale française",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR\n[Pour l'analyt. voir au dos.",
+    "page": "pp. 155-167",
+    "publisher": "A. Charles",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "La sténographie musicale",
+    "author": [
+      {
+        "family": "Hellouin",
+        "given": "Frédéric"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1903
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2725,
+    "type": "book",
+    "collection-title": "Collection Musique ouverte",
+    "event-place": "Paris",
+    "ISBN": "978-2-86931-112-1",
+    "number-of-pages": "294",
+    "publisher": "Minerve",
+    "publisher-place": "Paris",
+    "source": "Library of Congress ISBN",
+    "title": "Histoire de la notation de l'époque baroque à nos jours",
+    "author": [
+      {
+        "family": "Bouissou",
+        "given": "Sylvie"
+      },
+      {
+        "family": "Goubault",
+        "given": "Christian"
+      },
+      {
+        "family": "Bosseur",
+        "given": "Jean-Yves"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1611,
+    "type": "book",
+    "event-place": "Bruxelles",
+    "ISBN": "978-2-930601-11-3",
+    "language": "French",
+    "note": "OCLC: 892604343",
+    "publisher": "Zones Sensibles, Pactum Serva",
+    "publisher-place": "Bruxelles",
+    "source": "Open WorldCat",
+    "title": "Une brève histoire des lignes",
+    "author": [
+      {
+        "family": "Ingold",
+        "given": "Tim"
+      },
+      {
+        "family": "Renaut",
+        "given": "Sophie"
+      },
+      {
+        "literal": "Zones Sensible"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2063,
+    "type": "book",
+    "call-number": "ML3849 .B78 1993",
+    "event-place": "Paris",
+    "ISBN": "978-2-906571-23-5",
+    "number-of-pages": "158",
+    "publisher": "Dis voir",
+    "publisher-place": "Paris",
+    "source": "Library of Congress ISBN",
+    "title": "Le Sonore et le visuel : intersections musique et arts plastiques aujourd'hui",
+    "title-short": "Le Sonore et le visuel",
+    "author": [
+      {
+        "family": "Bosseur",
+        "given": "Jean-Yves"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2723,
+    "type": "webpage",
+    "title": "L'Aventures des écritures : naissances, écriture et parole, le signe et le son",
+    "title-short": "L'Aventures des écritures",
+    "URL": "http://classes.bnf.fr/dossiecr/so-parol.htm",
+    "author": [
+      {
+        "family": "Berthier",
+        "given": "Annie"
+      },
+      {
+        "family": "Zali",
+        "given": "Anne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2737,
+    "type": "webpage",
+    "abstract": "Des harpes égyptiennes aux trompes romaines, des chants mésopotamiens aux hymnes grecs, sans oublier les inscriptions sur papyrus, tablettes d’argile ou tombes, le musée du Louvre-Lens tend l’oreille du côté des civilisations anciennes dans la plus grande exposition jamais conçue à ce jour sur le sujet. « Musiques ! Échos de l’Antiquité » témoigne de la place prépondérante de la musique dans les sociétés antiques.",
+    "container-title": "CNRS Le journal",
+    "language": "fr",
+    "title": "Sur un air de musique antique",
+    "URL": "https://lejournal.cnrs.fr/articles/sur-un-air-de-musique-antique",
+    "author": [
+      {
+        "family": "Cailloce",
+        "given": "Laure"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2764,
+    "type": "article-journal",
+    "container-title": "Médiévales",
+    "DOI": "10.3406/medi.1982.886",
+    "issue": "1",
+    "language": "fre",
+    "note": "publisher: Persée - Portail des revues scientifiques en SHS",
+    "page": "89-103",
+    "source": "www.persee.fr",
+    "title": "Les notations musicales au moyen âge",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Dennery",
+        "given": "Annie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2746,
+    "type": "article-journal",
+    "container-title": "Musical Offerings",
+    "DOI": "10.15385/jmo.2012.3.1.4",
+    "ISSN": "2167-3799",
+    "issue": "1",
+    "title": "Guido of Arezzo and His Influence on Music Learning",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Reisenweaver",
+        "given": "Anna"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2729,
+    "type": "chapter",
+    "collection-number": "Bd. VIII, 1.-2. Teil",
+    "collection-title": "Kleine Handbücher der Musikgeschichte nach Gattungen",
+    "container-title": "Handbuch der Notationskunde",
+    "event-place": "Leipzig",
+    "language": "ger",
+    "note": "musique, fac-sim. 22 cm.",
+    "number-of-volumes": "2",
+    "publisher": "Breitkopf und Härtel",
+    "publisher-place": "Leipzig",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Musikalische Stenographie",
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "Johannes"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1913
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2519,
+    "type": "book",
+    "abstract": "Moyen facile d'écrire la musique et de noter un air aussi, vite qu'on le chante -- 1787 -- livre",
+    "language": "EN",
+    "source": "gallica.bnf.fr",
+    "title": "Moyen facile d'écrire la musique et de noter un air aussi, vite qu'on le chante",
+    "title-short": "Moyen facile d'écrire la musique",
+    "author": [
+      {
+        "family": "Coulon de Thévenot",
+        "given": "Jean-Félicité"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1787
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2732,
+    "type": "book",
+    "language": "fre",
+    "note": "Country: XX\nT. 16, ou Pièces sur la musique.",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Projet concernant de nouveaux signes pour la musique",
+    "author": [
+      {
+        "family": "Rousseau",
+        "given": "Jean-Jacques"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1742
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2577,
+    "type": "book",
+    "abstract": "Sténographie musicale, ou Art de suivre l'exécution musicale en écrivant / par Hippolyte Prévost,... -- 1833 -- livre",
+    "language": "EN",
+    "source": "gallica.bnf.fr",
+    "title": "Sténographie musicale, ou Art de suivre l'exécution musicale en écrivant",
+    "title-short": "Sténographie musicale",
+    "author": [
+      {
+        "family": "Prévost",
+        "given": "Hippolyte"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1833
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2513,
+    "type": "book",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "La Sténographie musicale",
+    "author": [
+      {
+        "family": "Grelinger",
+        "given": "Charles"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1918
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2511,
+    "type": "book",
+    "event-place": "Marseilles [sic]",
+    "language": "fre",
+    "note": "Country: FR\n24 p. d'appréciations sur la sténographie, et 10 p. d'exposé du système.",
+    "number-of-pages": "35",
+    "publisher": "J. Hovannes",
+    "publisher-place": "Marseilles [sic]",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "La Sténographie de la musique",
+    "author": [
+      {
+        "family": "Kutahialian",
+        "given": "Jean"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1967
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2083,
+    "type": "book",
+    "language": "en",
+    "note": "Google-Books-ID: 8tFxQwAACAAJ",
+    "number-of-pages": "8",
+    "publisher": "J. Kutahialian",
+    "source": "Google Books",
+    "title": "Unu sola ŝlosilo por la tuta orkestro per la stenografio de la musiko",
+    "title-short": "Unu sola ŝlosilo por la tuta orkestro per la stenografio de la musiko",
+    "author": [
+      {
+        "family": "Kutahialian",
+        "given": "Jean"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1963
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2721,
+    "type": "book",
+    "abstract": "MP3: The Meaning of a Format recounts the hundred-year history of the world's most common format for recorded audio. Understanding the historical meaning of the MP3 format entails rethinking the place of digital technologies in the larger universe of twentieth-century communication history, from hearing research conducted by the telephone industry in the 1910s, through the mid-century development of perceptual coding (the technology underlying the MP3), to the format's promiscuous social life since the mid 1990s. MP3s are products of compression, a process that removes sounds unlikely to be heard from recordings. Although media history is often characterized as a progression toward greater definition, fidelity, and truthfulness, MP3: The Meaning of a Format illuminates the crucial role of compression in the development of modern media and sound culture. Taking the history of compression as his point of departure, Jonathan Sterne investigates the relationships among sound, silence, sense, and noise; the commodity status of recorded sound and the economic role of piracy; and the importance of standards in the governance of our emerging media culture. He demonstrates that formats, standards, and infrastructures--and the need for content to fit inside them--are every bit as central to communication as the boxes we call \"media.\"",
+    "call-number": "006.5",
+    "collection-title": "SST: Sign, storage, transmission",
+    "event-place": "Durham, N.C.",
+    "ISBN": "978-0-8223-5287-7",
+    "language": "eng",
+    "publisher": "Duke University Press",
+    "publisher-place": "Durham, N.C.",
+    "source": "BnF ISBN",
+    "title": "MP3: The Meaning of a Format",
+    "title-short": "MP3",
+    "author": [
+      {
+        "family": "Sterne",
+        "given": "Jonathan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2744,
+    "type": "book",
+    "abstract": "French and English texts of all Edouard-Leon Scott de Martinville's known writings about phonautography from the 1850s and 1860s.  Edition 1.0 was published through FirstSounds.org in December 2009; this is edition 1.1, published with minor revisions in March 2010 (pagination is unaffected).  Users are advised to check for the availability of an even more recent edition.",
+    "language": "French",
+    "publisher": "FirstSounds.org",
+    "source": "Internet Archive",
+    "title": "The Phonautographic Manuscripts of Édouard-Léon Scott de Martinville",
+    "URL": "http://archive.org/details/ThePhonautographicManuscriptsOfEdouard-leonScottDeMartinville",
+    "author": [
+      {
+        "family": "Scott de Martinville",
+        "given": "Édouard-Léon"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Feaster",
+        "given": "Patrick"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Feaster",
+        "given": "Patrick"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2735,
+    "type": "book",
+    "event-place": "Paris",
+    "language": "fre",
+    "note": "Country: FR",
+    "number-of-pages": "182",
+    "publisher": "Gosselin",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Traité sur l'art graphique et la mécanique appliqués à la musique",
+    "author": [
+      {
+        "family": "Eisenmenger",
+        "given": "Michel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1838
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2716,
+    "type": "chapter",
+    "collection-title": "Tel quel",
+    "container-title": "Relevés d'apprenti",
+    "event-place": "Paris",
+    "language": "français",
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "title": "Aléa",
+    "author": [
+      {
+        "family": "Boulez",
+        "given": "Pierre"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Thévenin",
+        "given": "Paule"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1966
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2738,
+    "type": "thesis",
+    "abstract": "La thèse est construite en trois parties. La première partie est une biographie d’Ivan Wyschnegradsky (1893-1979) illustrée de larges extraits de son journal, qui raconte comment il vécut les grands événements historiques, son départ clandestin de la Russie en 1920, sa participation aux grèves de 1936 et sa captivité à Compiègne sous l’occupation nazie. Les cahiers de ma vie et une partie importante de sa correspondance avec Bruce Mather, Boris de Schloezer et Marina Scriabine, fournissent des indications précieuses quant à la chronologie, la datation et la genèse de ses oeuvres, l’influence de la musique de Scriabine et les relations du compositeur avec le futurisme russe. La deuxième partie de la thèse analyse deux grands textes inédits de Wyschnegradsky, qui sont reproduits en annexe, le Commentaire philosophique sur la Journée de l’existence et la Loi de la pansonorité, version de 1936. Ces textes permettent de construire une généalogie de la pansonorité, depuis l’histoire de la “conscience cosmique” telle qu’elle est présentée dans la Journée de l’existence, jusqu’à l’élaboration du “principe pansonore”. La troisième partie concerne l’étude du langage musical. Après l’analyse des théories par quartes superposées et des principes exposés dans le Manuel d’harmonie à quarts de ton, nous montrons commentWyschnegradsky aborde la micro-intervallité à travers la théorie des espaces non-octaviants, les problèmes de notation, la facture instrumentale et l’ultrachromatisme rythmique. L’influence de Wyschnegradsky sur le XXe siècle, ses relations avec les compositeurs impliqués dans les musiques microtonales et l’émergence de la notion d’inharmonicité dans le champ microtonal font l’objet du dernier chapitre.",
+    "event-place": "Paris",
+    "genre": "thèse de doctorat",
+    "language": "fr",
+    "publisher": "Université de Paris 1 Panthéon-Sorbonne",
+    "publisher-place": "Paris",
+    "source": "tel.archives-ouvertes.fr",
+    "title": "Ivan Wyschnegradsky et la musique microtonale",
+    "author": [
+      {
+        "family": "Jedrzejewski",
+        "given": "Franck"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          6,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2071,
+    "type": "book",
+    "event-place": "Paris, France",
+    "language": "français",
+    "note": "ISSN: 1961-8204",
+    "number-of-pages": "671",
+    "publisher": "Seuil",
+    "publisher-place": "Paris, France",
+    "source": "Library Catalog - www.sudoc.abes.fr",
+    "title": "Traité des objets musicaux : essai interdisciplines",
+    "title-short": "Traité des objets musicaux",
+    "author": [
+      {
+        "family": "Schaeffer",
+        "given": "Pierre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1966
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2731,
+    "type": "book",
+    "collection-title": "Books that matter",
+    "event-place": "New York ; Washington ; Vienne ; Londres",
+    "language": "xxx",
+    "note": "Country: XX\ndépl. 31 cm. Index.",
+    "number-of-pages": "183",
+    "publisher": "Praeger publishers Universal-Edition",
+    "publisher-place": "New York ; Washington ; Vienne ; Londres",
+    "source": "BnF Catalogue général (http:// catalogue.bnf.fr)",
+    "title": "Notation in New Music: A Critical Guide to Interpretation and Realisation",
+    "title-short": "Notation in New Music",
+    "author": [
+      {
+        "family": "Karkoschka",
+        "given": "Erhard"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Koenig",
+        "given": "Ruth"
+      }
+    ]
+  },
+  {
+    "id": 2730,
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-07-028704-8",
+    "language": "French",
+    "note": "OCLC: 493392179",
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Philosophie de la nouvelle musique",
+    "author": [
+      {
+        "family": "Adorno",
+        "given": "Theodor Wiesengrund"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Hildenbrand",
+        "given": "Hans"
+      },
+      {
+        "family": "Lindenberg",
+        "given": "Alex"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2745,
+    "type": "book",
+    "event-place": "New York",
+    "language": "en",
+    "number-of-pages": "xxii+357",
+    "publisher-place": "New York",
+    "source": "Library Catalog - www.sudoc.abes.fr",
+    "title": "Music Notation in the Twentieth Century: A Practical Guidebook",
+    "title-short": "Music Notation in the Twentieth Century",
+    "author": [
+      {
+        "family": "Stone",
+        "given": "Kurt"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2727,
+    "type": "book",
+    "event-place": "Boston",
+    "language": "anglais",
+    "number-of-pages": "452",
+    "publisher": "Allyn & Bacon",
+    "publisher-place": "Boston",
+    "source": "Library Catalog - www.sudoc.abes.fr",
+    "title": "Music Notation: A Manual of Modern Practice",
+    "title-short": "Music Notation",
+    "author": [
+      {
+        "family": "Read",
+        "given": "Gardner"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1964
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2492,
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-246-85927-7",
+    "note": "OCLC: ocn944303642",
+    "number-of-pages": "558",
+    "publisher": "Bernard Grasset",
+    "publisher-place": "Paris",
+    "source": "Library of Congress ISBN",
+    "title": "Les fous du son : d'Edison à nos jours",
+    "title-short": "Les fous du son",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Laurent",
+        "non-dropping-particle": "de"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2680,
+    "type": "post-weblog",
+    "abstract": "‘Graphic 1’  was an hybrid hardware-software graphic input system for digital synthesis that allowed note values to be written on a CRT computer monitor – although very basic by current…",
+    "container-title": "120 Years of Electronic Music",
+    "language": "en-GB",
+    "title": "‘Graphic 1’, William H. Ninke, Carl Christensen, Henry S. McDonald and Max Mathews. USA, 1965",
+    "URL": "https://120years.net/wordpress/graphic-1-max-mathews-lawrence-rosler-usa-1968/",
+    "author": [
+      {
+        "family": "Crab",
+        "given": "Simon"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2718,
+    "type": "chapter",
+    "collection-title": "Collection Musique ouverte",
+    "container-title": "Histoire de la notation de l'époque baroque à nos jours",
+    "event-place": "Paris",
+    "ISBN": "978-2-86931-112-1",
+    "page": "187-270",
+    "publisher": "Minerve",
+    "publisher-place": "Paris",
+    "source": "Library of Congress ISBN",
+    "title": "Les notations au xxe siècle, entre fixité et ouverture",
+    "author": [
+      {
+        "family": "Bosseur",
+        "given": "Jean-Yves"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2717,
+    "type": "article-journal",
+    "container-title": "Conséquences",
+    "language": "fr",
+    "page": "85-90",
+    "title": "La notation et la composition : aspects",
+    "title-short": "La notation et la composition",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Ferneyhough",
+        "given": "Brian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2855,
+    "type": "article-journal",
+    "source": "ResearchGate",
+    "title": "Mathematics and music",
+    "author": [
+      {
+        "family": "Jedrzejewski",
+        "given": "Franck"
+      },
+      {
+        "family": "Noll",
+        "given": "Thomas"
+      },
+      {
+        "family": "Nicolas",
+        "given": "François"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2853,
+    "type": "book",
+    "abstract": "Widely recognized as one of the West Coast's most important and critically acclaimed practitioners of conceptual and installation art, David Ireland (born 1930) has taken the concept of art itself as one of his subjects. A self-described \"post-discipline\" artist, guided by Zen thought and postmodern aesthetics, Ireland moves fluidly from making small drawings to creating sculptures as large as houses. Freely incorporating anything within his conceptual or physical reach--dirt, concrete, wire, and other everyday materials--his work is subtle, puzzling, and witty, and consistently challenges traditional definitions of art. In this book accompanying the first full-scale retrospective of Ireland's work, curator and author Karen Tsujimoto provides an insightful overview of more than thirty years of the artist's accomplishments, from his drawings, sculptures, and site-specific installations to his remarkable series of architectural transformations, including his well-known house at 500 Capp Street in San Francisco. Chronicling Ireland's circuitous route to his calling, Tsujimoto explores how key life experiences have influenced his artistic perspective--from his early art-student days, through his years as an African importer and safari guide, to his long-standing interest in Eastern, and particularly Zen, philosophy and his deep connections with the San Francisco Bay Area conceptual art community. An illuminating essay by art historian and curator Jennifer R. Gross also considers Ireland's art in terms of historical materialism--assessing his use of neglected materials and artifacts as a process of cultural preservation. Widely recognized as one of the West Coast's most important and critically acclaimed practitioners of conceptual and installation art, David Ireland (born 1930) has taken the concept of art itself as one of his subjects. A self-described \"post-discipline\" artist, guided by Zen thought and postmodern aesthetics, Ireland moves fluidly from making small drawings to creating sculptures as large as houses. Freely incorporating anything within his conceptual or physical reach--dirt, concrete, wire, and other everyday materials--his work is subtle, puzzling, and witty, and consistently challenges traditional definitions of art. In this book accompanying the first full-scale retrospective of Ireland's work, curator and author Karen Tsujimoto provides an insightful overview of more than thirty years of the artist's accomplishments, from his drawings, sculptures, and site-specific installations to his remarkable series of architectural transformations, including his well-known house at 500 Capp Street in San Francisco. Chronicling Ireland's circuitous route to his calling, Tsujimoto explores how key life experiences have influenced his artistic perspective--from his early art-student days, through his years as an African importer and safari guide, to his long-standing interest in Eastern, and particularly Zen, philosophy and his deep connections with the San Francisco Bay Area conceptual art community. An illuminating essay by art historian and curator Jennifer R. Gross also considers Ireland's art in terms of historical materialism--assessing his use of neglected materials and artifacts as a process of cultural preservation.",
+    "ISBN": "978-0-520-24046-9",
+    "language": "en",
+    "note": "Google-Books-ID: ZMU9OiEMs5oC",
+    "number-of-pages": "260",
+    "publisher": "University of California Press",
+    "source": "Google Books",
+    "title": "The Art of David Ireland: The Way Things are",
+    "title-short": "The Art of David Ireland",
+    "author": [
+      {
+        "family": "Gross",
+        "given": "Jennifer R."
+      },
+      {
+        "family": "Tsujimoto",
+        "given": "Karen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2845,
+    "type": "chapter",
+    "abstract": "Un partenariat s'est engagé depuis plusieurs années entre l'Université de Rouen, le Groupe de Recherche en Histoire de l'Université de Rouen, le Centre Iannis Xenakis et l'Ecole Nationale Supérieure d'Architecture de Normandie, concrétisé par des colloques, expositions et concerts. Il nous semblait alors évident d'en faire acte par la publication de cet ouvrage collectif consacré à \" Xenakis et les arts \". 0Iannis Xenakis (1922-2001), ce polymathe par excellence, n' a - en fait - peut-être jamais réfléchi ni agi en tant que musicien ou comme architecte - seulement. En fait, il incarnait intégralement son propre modèle \" d'artiste concepteur \", s'inspirant à la fois des sciences et de tous les arts.0",
+    "collection-title": "Les cahiers de l'École nationale supérieure d'architecture de Normandie",
+    "container-title": "Xenakis et les arts : miscellanées à l'initiative du Centre Iannis Xenakis",
+    "event-place": "Bonsecours",
+    "ISBN": "978-2-37195-000-9",
+    "note": "OCLC: ocn897763415",
+    "page": "90-111",
+    "publisher": "Point de Vues Editions",
+    "publisher-place": "Bonsecours",
+    "source": "Library of Congress ISBN",
+    "title": "Apprendre à penser par soi-même : quand l'UPIC incite à composer différemment",
+    "title-short": "Apprendre à penser par soi-même",
+    "editor": [
+      {
+        "family": "Fendrich",
+        "given": "Fabienne"
+      }
+    ],
+    "author": [
+      {
+        "family": "Delhaye",
+        "given": "Cyrille"
+      },
+      {
+        "family": "Bourotte",
+        "given": "Rodolphe"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2927,
+    "type": "post-weblog",
+    "abstract": "Rediscovering The Polyagogy of Abstract Matter As I see it, music is a domain where the most profound questions of philosophy, thought, behaviour, and the theory of the universe ought to pose themselves to the composer. The images in the following pages are screenshots taken during the drafting of the electronic ‘score’ of Haswell & …",
+    "container-title": "Robin Mackay",
+    "language": "en-GB",
+    "note": "section: Uncategorised",
+    "title": "Blackest Ever Black",
+    "URL": "http://readthis.wtf/writing/blackest-ever-black-rediscovering-the-polyagogy-of-abstract-matter/",
+    "author": [
+      {
+        "family": "Mackay",
+        "given": "Robin"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2865,
+    "type": "article-journal",
+    "container-title": "Guide musical",
+    "issue": "653",
+    "page": "4-6",
+    "title": "Grandeur et misère de la musique contemporaine",
+    "author": [
+      {
+        "family": "Xenakis",
+        "given": "Iannis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2844,
+    "type": "chapter",
+    "abstract": "Un partenariat s'est engagé depuis plusieurs années entre l'Université de Rouen, le Groupe de Recherche en Histoire de l'Université de Rouen, le Centre Iannis Xenakis et l'Ecole Nationale Supérieure d'Architecture de Normandie, concrétisé par des colloques, expositions et concerts. Il nous semblait alors évident d'en faire acte par la publication de cet ouvrage collectif consacré à \" Xenakis et les arts \". 0Iannis Xenakis (1922-2001), ce polymathe par excellence, n' a - en fait - peut-être jamais réfléchi ni agi en tant que musicien ou comme architecte - seulement. En fait, il incarnait intégralement son propre modèle \" d'artiste concepteur \", s'inspirant à la fois des sciences et de tous les arts.0",
+    "collection-title": "Les cahiers de l'École nationale supérieure d'architecture de Normandie",
+    "container-title": "Xenakis et les arts : miscellanées à l'initiative du Centre Iannis Xenakis",
+    "event-place": "Bonsecours",
+    "ISBN": "978-2-37195-000-9",
+    "note": "OCLC: ocn897763415",
+    "page": "160-185",
+    "publisher": "Point de Vues Editions",
+    "publisher-place": "Bonsecours",
+    "source": "Library of Congress ISBN",
+    "title": "L'utopie xenakienne : de quodam loco communi eodemque singulari",
+    "title-short": "L'utopie xenakienne",
+    "editor": [
+      {
+        "family": "Fendrich",
+        "given": "Fabienne"
+      }
+    ],
+    "author": [
+      {
+        "family": "Villeval",
+        "given": "Jean-Louis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1735,
+    "type": "webpage",
+    "title": "Bézier Curves and Type Design: A Tutorial",
+    "URL": "http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/",
+    "author": [
+      {
+        "family": "Martins",
+        "given": "Fábio Duarte"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2502,
+    "type": "book",
+    "abstract": "electron version of symbolist",
+    "genre": "JavaScript",
+    "note": "original-date: 2020-03-23T15:14:08Z",
+    "publisher": "HfMT-ZM4",
+    "source": "GitHub",
+    "title": "Symbolist",
+    "URL": "https://github.com/HfMT-ZM4/symbolist-electron",
+    "author": [
+      {
+        "family": "Gottfried",
+        "given": "Rama"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2849,
+    "type": "paper-conference",
+    "abstract": "We present SYMBOLIST, a graphic notation environment for music and multimedia. SYMBOLIST is based on an Open Sound Control (OSC) encoding of symbols representing multi-rate and multidimensional control data, which can be streamed as control messages to audio processing or any kind of media environment. Symbols can be designed and composed graphically, and brought in relationship with other symbols. The environment provides tools for creating symbol groups and stave references, by which symbols maybe timed and used to constitute a structured and executable multimedia score.",
+    "container-title": "International Conference on Technologies for Music Notation and Representation",
+    "event": "TENOR'18",
+    "event-place": "Montréal",
+    "publisher-place": "Montréal",
+    "source": "HAL Archives Ouvertes",
+    "title": "Symbolist: An Open Authoring Environment for End-user Symbolic Notation",
+    "title-short": "Symbolist",
+    "URL": "https://hal.archives-ouvertes.fr/hal-01804933",
+    "author": [
+      {
+        "family": "Gottfried",
+        "given": "Rama"
+      },
+      {
+        "family": "Bresson",
+        "given": "Jean"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2504,
+    "type": "speech",
+    "event-place": "Paris",
+    "publisher-place": "Paris",
+    "title": "Sortie de la résidence de recherche artistique : Symbolist, un environnement de notation graphique ouvert pour la musique et le multimédia",
+    "URL": "https://medias.ircam.fr/x7351a8",
+    "author": [
+      {
+        "family": "Gottfried",
+        "given": "Rama"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2606,
+    "type": "speech",
+    "event-place": "Paris",
+    "publisher-place": "Paris",
+    "title": "Generative Notations",
+    "URL": "https://medias.ircam.fr/x43642f",
+    "author": [
+      {
+        "family": "Kim-Boyle",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2863,
+    "type": "article-journal",
+    "abstract": "The initial stages of creative design often involve sketch-ing. Electroacoustic composition is no exception to this. Paradoxically, the technologies that enable this form of composition provide little support for the sketching pro-cess itself. In this paper we first present evidence for the importance of paper-and-pen sketching in current prac-tice and discuss two strategic representational functions it serves: vagueness and ambiguity. Current music pro-grams offer a variety forms of visual representation but offer only limited support for these functions. We discuss the design alternatives that could be used to provide more support for the creative stages of electroacoustic compo-sition. The program Music Sketcher is presented which aims at bridging the gap between the paper-based sketch-ing activity and the final realization of a piece using stan-dard tools.",
+    "container-title": "International Computer Music Conference, ICMC 2008",
+    "journalAbbreviation": "International Computer Music Conference, ICMC 2008",
+    "source": "ResearchGate",
+    "title": "Drawing electroacoustic music",
+    "author": [
+      {
+        "family": "Thiebaut",
+        "given": "Jean-Baptiste"
+      },
+      {
+        "family": "Healey",
+        "given": "Patrick"
+      },
+      {
+        "family": "Bryan-Kinns",
+        "given": "Nick"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2603,
+    "type": "post-weblog",
+    "abstract": "The Decibel Complete John Cage Variations ScorePlayer Application (App) (abbreviated to Decibel John Cage Variations) is an iPad App that provides automated",
+    "genre": "Decibel New Music",
+    "language": "en-US",
+    "title": "The Decibel Complete John Cage Variations ScorePlayer",
+    "URL": "https://decibelnewmusic.com/the-decibel-complete-john-cage-variations-scoreplayer/",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2305,
+    "type": "thesis",
+    "abstract": "This thesis focuses on the design of interactive paper interfaces for supporting musical creation. Music composition has been deeply influenced by the computational power brought by computers but despite the use of software to create new sounds or work with symbolic notation, composers still use paper in their creative process. Interactive paper creates new opportunities for combining expression on paper and computation. However, designing for highly individual creative practitioners who use personal musical representations is challenging. In this thesis, I argue that composers need personal and adaptable structures on paper in which they can express and explore musical ideas. I first present three field studies (Chapter 3) with contemporary composers that examined the use of paper and the computer during the composition process and how linking the two media supports exploration of musical ideas. I then describe a participatory design study that investigates the use of formal musical representations (Chapter 4) for creating new paper interfaces that extend computer-aided composition tools. I introduce Paper Substrates (Chapter 5), interactive paper components that provide modular structures for interacting with personal representations of computer-based musical data. I detail tools that we created to develop paper applications with the Paper Substrates approach. Several examples illustrate the creation of personal structures and musical content that can still be interpreted by computer-aided composition software. I then describe a structured observation study with 12 composers who used Polyphony to compose a short electroacoustic piece (Chapter 6). Polyphony is a unified user interface that integrates interactive paper and electronic user interfaces for composing music. The study allowed us to systematically observe and compare their compositional processes. Finally, I report on a research and creation project with the composer Philippe Leroux during the composition of his piece Quid sit musicus (Chapter 7). Several work sessions with the composer and a musical assistant lead to the design of new paper- based interfaces for generating composition material, synthesizing sounds and controlling the spatialization from handwritten gestures from calligraphic gestures over an old manuscript.",
+    "event-place": "Saclay",
+    "genre": "thèse de doctorat",
+    "language": "en",
+    "publisher": "Université Paris Sud - Paris XI",
+    "publisher-place": "Saclay",
+    "source": "hal.archives-ouvertes.fr",
+    "title": "Supporting Music Composition with Interactive Paper",
+    "URL": "https://tel.archives-ouvertes.fr/tel-01056992",
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "Jérémie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2848,
+    "type": "thesis",
+    "abstract": "The process of musical composition is sometimes conceived of as an individual, internal, cognitive \nprocess in which notation plays a passive role of transmitting or recording musical ideas. \nThis thesis questions the role played by representations in musical composition practices. \nWe begin by tracing how, historically, compositional practices have co-evolved with musical \nrepresentations and technologies for music production. We present case studies to show that the \nuse of graphical sketches is a characteristic feature of the early stages of musical composition \nand that this practice recurs across musical genres ranging from classical music to contemporary \nelectroacoustic composition. We describe the processes involved in sketching activities within \nthe framework of distributed cognition and distinguish an intermediate representational role for \nsketches that is different from what is ‘in the head’ of the composer and from the functions of \nmore formal musical notations. Using evidences from the case studies, we argue in particular \nthat as in other creative design processes, sketches provide strategically ambiguous, heterogeneous \nforms of representation that exploit vagueness, indeterminacy and inconsistency in the \ndevelopment of musical ideas. \nBuilding on this analysis of the functions of sketching we describe the design and implementation \nof a new tool, the Music Sketcher, which attempts to provide more under-specified and \nflexible forms of ‘sketch’ representation than are possible with contemporary composition tools. \nThis tool is evaluated through a series of case studies which explore how the representations \nconstructed with the tool are interpreted and what role they play in the compositional process. \nWe show that the program provides a similar level of vagueness to pen and paper, while also \nfacilitating re-representation and re-interpretation, thus helping bridge the gap between early \nrepresentations and later stages of commitment.",
+    "event-place": "Londres",
+    "genre": "thèse de doctorat",
+    "language": "en",
+    "note": "Accepted: 2011-01-27T14:11:52Z",
+    "publisher": "Queen Mary University of London",
+    "publisher-place": "Londres",
+    "source": "qmro.qmul.ac.uk",
+    "title": "Sketching Music: Representation and Composition",
+    "title-short": "Sketching Music",
+    "author": [
+      {
+        "family": "Thiebaut",
+        "given": "Jean-Baptiste"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2309,
+    "type": "motion_picture",
+    "title": "Images d'une œuvre n° 18 : Quid sit musicus ? de Philippe Leroux",
+    "URL": "https://medias.ircam.fr/x159d48",
+    "author": [
+      {
+        "family": "Benizeau",
+        "given": "Thierry Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2604,
+    "type": "article-journal",
+    "abstract": "Between the realms of improvisation and the execution of a paperwritten, fixed score the concept of Realtime-Score opens a kind of \"Third Way\" of interpretation. It is based on the idea, that the score for one or more musicians playing on stage is generated in realtime during a performance and projected directly on a computerscreen which is placed before the musicians like a traditional note-stand. The musicians can interactively influence the evolution of the piece (based on simulations of complex dynamic systems), so that each performance is a unique realisation of a piece. The text will introduce the concept and discuss linked topics like notation, interaction, interpretation, audiance, and the role of the composer in this new concept.",
+    "container-title": "Sound and Music Computing",
+    "source": "Google Scholar",
+    "title": "The Realtime-Score: A Missing-Link in Computer-Music Performance",
+    "title-short": "The Realtime-Score",
+    "URL": "http://recherche.ircam.fr/equipes/repmus/SMC04/scm04actes/P3.pdf",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Winkler",
+        "given": "Gerhard E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2611,
+    "type": "article-journal",
+    "abstract": "This article argues that animated notations are the most exciting new direction for music notation since the conception of the real-time score. The real-time score revolutionized performance practices in new music, with the composer Gerhard E. Winkler calling it a “third way” between improvisation and fixed scores. Developing upon the idea of dynamic notation epitomized by the real-time score, animated notation features movement as its foundation, and may be presented as an interactive program, video, or application environment generated in real time or preset. It extends the possibilities presented by graphic notations, engaging the processing power of computing toward new complexities of shape, color, movement dynamics, form, synchronicity, and the very performability of music scores. Beginning with a brief historic overview of trends and background that may have informed the development of animated notation, I then examine contemporary practices and their application to a range of music. I will argue that animated notation brings particular benefits for scoring music featuring electronics and aleatoric elements.",
+    "container-title": "Computer Music Journal",
+    "DOI": "10.1162/comj_a_00427",
+    "ISSN": "0148-9267",
+    "issue": "3",
+    "journalAbbreviation": "Computer Music Journal",
+    "page": "21-35",
+    "source": "Silverchair",
+    "title": "Electronic Scores for Music: The Possibilities of Animated Notation",
+    "title-short": "Electronic Scores for Music",
+    "volume": "41",
+    "author": [
+      {
+        "family": "Hope",
+        "given": "Cat"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2614,
+    "type": "graphic",
+    "medium": "Partition pour performance",
+    "title": "Study 56",
+    "URL": "http://ryanrosssmith.com/study56.html",
+    "author": [
+      {
+        "family": "Ross Smith",
+        "given": "Ryan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2847,
+    "type": "graphic",
+    "abstract": "Cat Hope is a member of Vimeo, the home for high quality videos and the people who love them.",
+    "language": "en",
+    "medium": "Partition vidéo",
+    "title": "Black Tide",
+    "URL": "https://vimeo.com/user39956006",
+    "author": [
+      {
+        "family": "Hope",
+        "given": "Cat"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2601,
+    "type": "graphic",
+    "medium": "Animated score",
+    "title": "Mai: Knospen",
+    "URL": "https://www.youtube.com/watch?v=_HiPSX95n6I",
+    "author": [
+      {
+        "family": "Elliot Perez",
+        "given": "Stephan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2846,
+    "type": "speech",
+    "abstract": "Ryan Ross Smith presents 'Study no. 56' at the New Notations Symposium held at IRCAM in Paris during September 2016.",
+    "event": "New Notations Symposium",
+    "event-place": "Paris",
+    "publisher-place": "Paris",
+    "title": "Presentation of Study 56",
+    "title-short": "Ryan Ross Smith",
+    "URL": "https://www.youtube.com/watch?v=shBaVhpIpJM",
+    "author": [
+      {
+        "family": "Ross Smith",
+        "given": "Ryan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2610,
+    "type": "post-weblog",
+    "abstract": "Anything to do with animated notation, video notation, real-time notation and basically any kind of \"active\" musical notation.  Links to audio and video examples, articles,papers and discussions, people and groups, tips and tools.",
+    "language": "en",
+    "title": "Animated notation",
+    "URL": "http://animatednotation.blogspot.com/",
+    "author": [
+      {
+        "family": "Pálsson",
+        "given": "Páll Ragnar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2325,
+    "type": "book",
+    "call-number": "NX456.5.F55 L87 2004",
+    "collection-title": "Arts & sciences de l'art",
+    "event-place": "Paris, France",
+    "ISBN": "978-2-7475-6215-7",
+    "number-of-pages": "297",
+    "publisher": "Harmattan",
+    "publisher-place": "Paris, France",
+    "source": "Library of Congress ISBN",
+    "title": "Happening & Fluxus : polyexpressivité et pratique concrète des arts",
+    "title-short": "Happening & Fluxus",
+    "author": [
+      {
+        "family": "Lussac",
+        "given": "Olivier"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2907,
+    "type": "post-weblog",
+    "container-title": "John Cage Trust",
+    "title": "John Cage Trust: John Cage at the New School (1950-1960)",
+    "title-short": "John Cage Trust",
+    "URL": "http://johncagetrust.blogspot.com/2014/08/john-cage-at-new-school-1950-1960.html",
+    "author": [
+      {
+        "family": "Kuhn",
+        "given": "Laura"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          28
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2906,
+    "type": "chapter",
+    "abstract": "An extended trajectory of Cage literature, from early critical reaction to writing by contemporaries to current scholarship.John Cage (1912-1992) defined a radical practice of composition that changed the course of modern music and shaped a new conceptual horizon for postwar art. Famous for his use of chance and \"silence\" in musical works, a pioneer in electronic music and the nonstandard use of instruments, Cage was one of the most influential composers of the last century. This volume traces a trajectory of writings on the artist, from the earliest critical reactions to the scholarship of today. If the first writing on Cage in the American context, often written by close associates with Cage's involvement, seemed lacking in critical distance, younger scholars--a generation removed--have recently begun to approach the legacy from a new perspective, with more developed theoretical frameworks and greater skepticism. This book captures that evolution.The texts include discussions of Cage's work in the context of the New Music scene in Germany in the 1950s; Yvonne Rainer's essay looking back on Cage and New York experimentalism of the 1960s; a complex and original mapping of Cage's place in a wider avant-garde genealogy that includes Le Corbusier and Moholy-Nagy; a musicologist's account of Cage's process of defining and formalizing his concept of indeterminacy; and an analysis of Cage's project that considers his strategies of self-representation as key to his unique impact on modern and postmodern art.",
+    "container-title": "John Cage",
+    "ISBN": "978-0-262-51630-3",
+    "language": "en",
+    "note": "Google-Books-ID: WjoiEAAAQBAJ",
+    "page": "141-170",
+    "publisher": "MIT Press",
+    "source": "Google Books",
+    "title": "The Formalization of Indeterminacy in 1958: John Cage and Experimental Composition at the New School",
+    "title-short": "The Formalization of Indeterminacy in 1958",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Rebecca Y."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Robinson",
+        "given": "Julia"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2899,
+    "type": "thesis",
+    "abstract": "Si Duchamp, Kaprow ou Fahlstr6m !'érigent en modèle pour l'art, le jeu est pour Dada auréolé du parfum sulfureux du blasphème. Avec les surréalistes, il acquiert une dimension heuristique et marque le refus du pouvoir de la raison. Symptôme et solution, le jeu offre un champ d'expérimentation jugé salutaire et susceptible de renouveler la pratique artistique. Reprenant le projet des avant-gardes, les situationnistes le hissent en finalité de leur action, au titre d'une royauté pascalienne qu'il s'agit d'offrir à tous. Les contextes idéologiques et artistiques déterminent différents moments du rapport entre !'art et le jeu, qui sont autant d'acceptions du terme. Or, dès lors qu'il devient un des paradigmes dominants de !'art actuel et que la société !'assimile au divertissement, les artistes doivent réinventer de nouvelles règles et manières de jouer. Réponse à un état d'urgence, le jeu reste une voie alternative pour repenser la société, l'art et l'artiste, désormais comparable au Bateleur, au Joker ou au triek. Ster. Philosophes, historiens et sociologues ayant étudié cette notion labile de jeu proposent un cadre de réflexion pour penser certaines pratiques artistiques des XXe et XXIe siècles à !'aune de cet empire du comme si et de l'incertitude. Enracinée dans la tradition philosophique, la comparaison de !'art avec le jeu repose pour partie sur le pouvoir métaphorique de cette activité de second degré, de ces structures modélisant des rapports de force et des contraintes, et de ces instruments symboliques permettant de rejouer sa partie avec le monde. Se logeant en creux dans la création artistique ou brandi comme une arme, le jeu est facteur de désordre et de transgression. Paraissant gratuit et futile, il est champ du possible. Métaphore active, il incarne un outil de modélisation satirique et de subversion du système.",
+    "event-place": "Paris",
+    "genre": "thèse de doctorat",
+    "language": "fr",
+    "publisher": "Université Paris I Panthéon-Sorbonne",
+    "publisher-place": "Paris",
+    "source": "theses.fr",
+    "title": "L'art et le jeu aux XXe et XXIe siècles ou du jeu comme modèle et outil de subversion",
+    "title-short": "L'art et le jeu aux XXe et XXIe siècles",
+    "author": [
+      {
+        "family": "Orhan",
+        "given": "Danielle"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          29
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2900,
+    "type": "chapter",
+    "container-title": "Writings 1903-1932",
+    "edition": "1st edition",
+    "event-place": "New York",
+    "ISBN": "978-1-883011-40-6",
+    "language": "English",
+    "publisher": "Library of America",
+    "publisher-place": "New York",
+    "source": "Amazon",
+    "title": "Composition and explanation",
+    "author": [
+      {
+        "family": "Stein",
+        "given": "Gertrude"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Stimpson",
+        "given": "Catharine"
+      },
+      {
+        "family": "Chessman",
+        "given": "Harriet"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1638,
+    "type": "article-journal",
+    "abstract": "Cet article propose quelques questions et hypothèses sur le rapport entre écriture et voix dans la recherche de Gertrude Stein. En passant par une brève comparaison entre la poétique de l’écrivain américain et les recherches qui ont donné lieu aux premiers appareils d’enregistrement sonore, nous souhaitons suggérer une ressemblance à nos yeux éclairante pour les similitudes ainsi que pour les différences qu’elle révèle, entre une pratique et une réflexion littéraire, et l’imaginaire propre à une époque.",
+    "container-title": "Sillages critiques",
+    "DOI": "10.4000/sillagescritiques.3031",
+    "ISSN": "1272-3819",
+    "issue": "16",
+    "language": "fr",
+    "note": "Company: Centre de recherches « Texte et critique du texte »\nDistributor: Centre de recherches « Texte et critique du texte »\nInstitution: Centre de recherches « Texte et critique du texte »\nLabel: Centre de recherches « Texte et critique du texte »\nnumber: 16\npublisher: Centre de recherches « Texte et critique du texte »",
+    "source": "journals.openedition.org",
+    "title": "Gertrude Stein et l’écriture des voix",
+    "URL": "https://journals.openedition.org/sillagescritiques/3031",
+    "author": [
+      {
+        "family": "De Simone",
+        "given": "Cristina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          20
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          6,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2901,
+    "type": "article",
+    "language": "en",
+    "publisher": "CCRMA",
+    "title": "The Duality of Mechanistic Precision and Timeless Freedom explained in terms of Reaching Identity Goals: Analysis on Stimmung by Karlheinz Stockhausen",
+    "title-short": "The Duality of Mechanistic Precision and Timeless Freedom",
+    "URL": "https://ccrma.stanford.edu/~jieun5/old_site/",
+    "author": [
+      {
+        "family": "Jieun",
+        "given": "Oh"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2902,
+    "type": "webpage",
+    "container-title": "Jaap Blonk's Web Pages",
+    "language": "en",
+    "title": "Vibrant Islands",
+    "URL": "http://www.jaapblonk.com/Pages/vibrantislands.html",
+    "author": [
+      {
+        "family": "Blonk",
+        "given": "Jaap"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2496,
+    "type": "book",
+    "event-place": "Paris, France",
+    "ISBN": "978-2-35031-217-0",
+    "language": "français",
+    "note": "dimensions: 22 min",
+    "number-of-pages": "147",
+    "publisher": "Gallimard : Musée du Louvre",
+    "publisher-place": "Paris, France",
+    "source": "Library Catalog - www.sudoc.abes.fr",
+    "title": "Pierre Boulez. Œuvre : fragment",
+    "title-short": "Pierre Boulez",
+    "author": [
+      {
+        "family": "Boulez",
+        "given": "Pierre"
+      },
+      {
+        "family": "Lista",
+        "given": "Marcella"
+      },
+      {
+        "family": "Loyrette",
+        "given": "Henri"
+      },
+      {
+        "family": "Scheffer",
+        "given": "Frank"
+      },
+      {
+        "family": "Sommer",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2593,
+    "type": "motion_picture",
+    "abstract": "Music sketch diary. Prototyping. Generate music and synthesizers by sketching wavetables and scores. #openFrameworks #sonification #creativecoding #generative #synthesizer",
+    "dimensions": "PT00H01M49S",
+    "source": "Vimeo",
+    "title": "Music sketch diary #1",
+    "URL": "https://vimeo.com/383757668",
+    "author": [
+      {
+        "family": "Park",
+        "given": "JeongHo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2897,
+    "type": "article-journal",
+    "container-title": "Dickens Quarterly",
+    "DOI": "10.1353/dqt.2018.0001",
+    "ISSN": "2169-5377",
+    "issue": "1",
+    "note": "publisher: Johns Hopkins University Press",
+    "page": "5-24",
+    "source": "Project MUSE",
+    "title": "Dickens's Shorthand Manuscripts",
+    "volume": "35",
+    "author": [
+      {
+        "family": "Bowles",
+        "given": "Hugo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2895,
+    "type": "article-journal",
+    "abstract": "<titre>R&#233;sum&#233;</titre> L&#8217;approche propos&#233;e du Brigand, texte tardif (1925) et &#171;&#160;posthume&#160;&#187; de Robert Walser, proc&#232;de &#224; une analyse de l&#8217;aspect tr&#232;s paradoxal rev&#234;tu chez cet auteur par la fonction de sinthome de son &#233;criture. Si le texte d&#233;routant que constitue Le brigand se r&#233;v&#232;le tentative pour donner, tout &#224; la fois, coh&#233;rence et consistance &#224; un ego, et sens &#224; l&#8217;&#233;nigme de la signification sexu&#233;e, la relation de Walser &#224; l&#8217;&#233;criture n&#8217;en comporte pas moins, &#224; la diff&#233;rence de celle de Joyce, une n&#233;gation de la valeur de son &#339;uvre.",
+    "container-title": "Savoirs et clinique",
+    "ISSN": "1634-3298",
+    "issue": "2",
+    "language": "fr",
+    "note": "Bibliographie_available: 0\nCairndomain: www.cairn.info\nCite Par_available: 0\npublisher: Érès",
+    "page": "99-109",
+    "source": "www.cairn.info",
+    "title": "Sur Robert Walser et son recours aux « microgrammes » : Le brigand, forme limite et paradoxale du sinthome de l'écrivain",
+    "title-short": "Sur Robert Walser et son recours aux « microgrammes »",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Charliac",
+        "given": "Lucile"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2926,
+    "type": "interview",
+    "language": "fr",
+    "title": "Dossier de presse musique – Festival D’Automne à Paris 2012 – Entretiens",
+    "URL": "https://www.festival-automne.com/uploads/Publish/evenement/1541/TromboneandStringQuartet_BMason_FPattar_LRonchetti_KStockhausen.pdf",
+    "author": [
+      {
+        "family": "Ronchetti",
+        "given": "Lucia"
+      }
+    ],
+    "interviewer": [
+      {
+        "family": "Feneyrou",
+        "given": "Laurent"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2896,
+    "type": "webpage",
+    "container-title": "digitalHusserl",
+    "title": "Gabelsberger Stenography",
+    "URL": "https://hiw.kuleuven.be/digitalhusserl/gabelsberger",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2892,
+    "type": "speech",
+    "abstract": "Projet de recherche de Camille Trimardeau &agrave; l&#039;Atelier national de recherche typographique (Nancy, France) entre octobre 2016 et mars 2018. Pr&eacute;sent&eacute;&hellip;",
+    "event": "ANRT2016",
+    "event-place": "Nancy",
+    "publisher-place": "Nancy",
+    "title": "Un système d'écriture pour la notation gymnique",
+    "URL": "https://vimeo.com/262258675",
+    "author": [
+      {
+        "family": "Trimardeau",
+        "given": "Camille"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 1493,
+    "type": "webpage",
+    "abstract": "The «Bulky» is a system of notation of the movement generated by the tag. This system responds to a primary desire to bring the tag into the ex-...",
+    "container-title": "MOSA87",
+    "title": "Bulky System",
+    "URL": "https://www.mosa87.com/product/bulky-system",
+    "author": [
+      {
+        "family": "Bavard",
+        "given": "Alexandre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2888,
+    "type": "book",
+    "edition": "4th edition",
+    "event-place": "New York",
+    "language": "English",
+    "number-of-pages": "1164",
+    "publisher": "Macmillan",
+    "publisher-place": "New York",
+    "source": "Amazon",
+    "title": "The Codebreakers: The Story of Secret Writing",
+    "title-short": "The Codebreakers",
+    "author": [
+      {
+        "family": "Kahn",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2891,
+    "type": "book",
+    "abstract": "\"Le plaisir du texte, c'est ce moment où mon corps va suivre ses propres idées - car mon corps n'a pas les mêmes idées que moi.\" R. B.",
+    "event-place": "Paris",
+    "ISBN": "978-2-02-056729-9",
+    "language": "Français",
+    "number-of-pages": "1046",
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "source": "Amazon",
+    "title": "Œuvres complètes IV (1972-1976)",
+    "title-short": "Œuvres complètes IV",
+    "author": [
+      {
+        "family": "Barthes",
+        "given": "Roland"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2424,
+    "type": "book",
+    "abstract": "\"A book about writing and its shadow side. It examines a number of practices, from the early 20th century to the present day, in which writing leaves behind its communicative function and moves toward the sphere of the illegible and unspeakable. Writing by Drawing sets out to explore the tension inherent in script, the way it hovers between the genuinely semantic realm and the uncharted territory of mere arabesques, automatisms, repeated marks, and scribbles. All of the works presented inhabit a special terrain vague in which the act of writing is more about \"trying to say\" than \"saying\" itself, more about potentialities of meaning than about signification. Such writing has transcended communication, becoming a trace of existence and affirmation of self but also an element of fancy, a metaphor for the mysterious weft of the world. Our investigation centers on this ancient human impulse to move past the communicative side of writing toward the unfettered, absolute reclamation of the mark, with its wealth of imaginative possibilities.\" -- Publisher's description",
+    "event-place": "Milan, Italy",
+    "ISBN": "978-88-572-4350-4",
+    "language": "eng",
+    "publisher": "Skira",
+    "publisher-place": "Milan, Italy",
+    "source": "K10plus ISBN",
+    "title": "Writing by Drawing: When Language Seeks its Other",
+    "editor": [
+      {
+        "family": "Bellini",
+        "given": "Andrea"
+      },
+      {
+        "family": "Lombardi",
+        "given": "Sarah"
+      }
+    ],
+    "author": [
+      {
+        "family": "Bellini",
+        "given": "Andrea"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  }
+]
