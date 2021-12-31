@@ -6,6 +6,8 @@
 
 **[English]** This repository aims at archiving and making public a research thesis presented at the École nationale des beaux-arts de Paris under the direction of Pascal Rousseau. This study covers the topic of shorthand, and is more specifically about music shorthand. A series of PDF files and inDesign documents are made available to enable anybody to use and share this work freely.
 
+![Photo de présentation du livre](https://raw.githubusercontent.com/yanntrividic/de-la-ligne-a-la-note/main/photo_presentation.jpg)
+
 ## Version française
 
 *English below.*
